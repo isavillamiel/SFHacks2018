@@ -98,15 +98,16 @@ body{
 		$number = "+14156908654";
 	?>
 <div class ="HOME">
+	<a href='index.php'>
 <div class ="logo">
            <img src="LOGO.png" height="300"></img>
-        </div>
+        </div></a>
 	
 
 </head>
 <body>
 	<div id='Welcome'>
-   		Welcome, David.
+   		Welcome, habibi.
 	</div>
   
 	<br>
@@ -117,7 +118,7 @@ body{
 
 	<center><strong>
 	<div class = 'inputField'>
-	<textarea id='entry' rows="20" cols="100" >
+	<textarea  style="font-size:35px; width: 100%" id='entry' rows= '10' >
 	</textarea
 	</div>
 	<br>
@@ -126,7 +127,7 @@ body{
 	<br>
 <br>
 	<a href="#" class="button2">Insights</a>
-	<a href="#" class="button2">Entries</a>
+	<a href="entries.php" class="button2">Entries</a>
 </body>
 </div>
 <script>

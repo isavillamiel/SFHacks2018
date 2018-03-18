@@ -71,9 +71,10 @@ body{
 </style>
 <head>
 <div class ="HOME">
+	<a href='index.php'>
 <div class ="logo">
            <img src="LOGO.png" height="300"></img>
-        </div>
+        </div></a>
 	
 </head>
 <body>

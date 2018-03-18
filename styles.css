@@ -12,39 +12,13 @@
 	background-repeat: no-repeat;
 }
 
-/* Specific to HISTORY */
-.sk-ab.sk-HISTORY {
+/* Specific to ANALYSIS */
+.sk-ab.sk-ANALYSIS {
 	background-color: #FFFFFF;
 	width: 1024px;
 	height: 1024px;
 }
 
-.sk-asset.sk-Rectangle-2 {
-	width: 791px;
-	height: 220px;
-	left: 117px;
-	top: 267px;
-	background-image: url("images/Rectangle 2.png");
-}
-
-@media only screen and (min--moz-device-pixel-ratio: 2),
-only screen and (-o-min-device-pixel-ratio: 2/1),
-only screen and (-webkit-min-device-pixel-ratio: 2),
-only screen and (min-device-pixel-ratio: 2) {
-	.sk-asset.sk-Rectangle-2 {
-		background-image: url("images/Rectangle 2@2x.png");
-		background-size: 791px 220px;
-	}
-}
-@media only screen and (min--moz-device-pixel-ratio: 3),
-only screen and (-o-min-device-pixel-ratio: 3/1),
-only screen and (-webkit-min-device-pixel-ratio: 3),
-only screen and (min-device-pixel-ratio: 3) {
-	.sk-asset.sk-Rectangle-2 {
-		background-image: url("images/Rectangle 2@3x.png");
-		background-size: 791px 220px;
-	}
-}
 .sk-asset.sk-Group {
 	width: 166px;
 	height: 99px;
@@ -71,167 +45,323 @@ only screen and (min-device-pixel-ratio: 3) {
 		background-size: 166px 99px;
 	}
 }
-.sk-asset.sk-History {
-	width: 113px;
+.sk-asset.sk-Analysis {
+	width: 130px;
 	height: 36px;
-	left: 456px;
+	left: 447px;
 	top: 183px;
-	background-image: url("images/History.png");
+	background-image: url("images/Analysis.png");
 }
 
 @media only screen and (min--moz-device-pixel-ratio: 2),
 only screen and (-o-min-device-pixel-ratio: 2/1),
 only screen and (-webkit-min-device-pixel-ratio: 2),
 only screen and (min-device-pixel-ratio: 2) {
-	.sk-asset.sk-History {
-		background-image: url("images/History@2x.png");
-		background-size: 113px 36px;
+	.sk-asset.sk-Analysis {
+		background-image: url("images/Analysis@2x.png");
+		background-size: 130px 36px;
 	}
 }
 @media only screen and (min--moz-device-pixel-ratio: 3),
 only screen and (-o-min-device-pixel-ratio: 3/1),
 only screen and (-webkit-min-device-pixel-ratio: 3),
 only screen and (min-device-pixel-ratio: 3) {
-	.sk-asset.sk-History {
-		background-image: url("images/History@3x.png");
-		background-size: 113px 36px;
+	.sk-asset.sk-Analysis {
+		background-image: url("images/Analysis@3x.png");
+		background-size: 130px 36px;
 	}
 }
-.sk-asset.sk-3-16 {
-	width: 66px;
-	height: 36px;
-	left: 149px;
+.sk-asset.sk-2018 {
+	width: 49px;
+	height: 24px;
+	left: 488px;
 	top: 219px;
-	background-image: url("images/3/16.png");
+	background-image: url("images/2018.png");
 }
 
 @media only screen and (min--moz-device-pixel-ratio: 2),
 only screen and (-o-min-device-pixel-ratio: 2/1),
 only screen and (-webkit-min-device-pixel-ratio: 2),
 only screen and (min-device-pixel-ratio: 2) {
-	.sk-asset.sk-3-16 {
-		background-image: url("images/3/16@2x.png");
-		background-size: 66px 36px;
+	.sk-asset.sk-2018 {
+		background-image: url("images/2018@2x.png");
+		background-size: 49px 24px;
 	}
 }
 @media only screen and (min--moz-device-pixel-ratio: 3),
 only screen and (-o-min-device-pixel-ratio: 3/1),
 only screen and (-webkit-min-device-pixel-ratio: 3),
 only screen and (min-device-pixel-ratio: 3) {
-	.sk-asset.sk-3-16 {
-		background-image: url("images/3/16@3x.png");
-		background-size: 66px 36px;
+	.sk-asset.sk-2018 {
+		background-image: url("images/2018@3x.png");
+		background-size: 49px 24px;
 	}
 }
-.sk-asset.sk-Dolor-sit-amet-ut-e {
-	width: 663px;
-	height: 192px;
-	left: 181px;
-	top: 295px;
-	background-image: url("images/Dolor sit amet, ut e.png");
-}
-
-@media only screen and (min--moz-device-pixel-ratio: 2),
-only screen and (-o-min-device-pixel-ratio: 2/1),
-only screen and (-webkit-min-device-pixel-ratio: 2),
-only screen and (min-device-pixel-ratio: 2) {
-	.sk-asset.sk-Dolor-sit-amet-ut-e {
-		background-image: url("images/Dolor sit amet, ut e@2x.png");
-		background-size: 663px 192px;
-	}
-}
-@media only screen and (min--moz-device-pixel-ratio: 3),
-only screen and (-o-min-device-pixel-ratio: 3/1),
-only screen and (-webkit-min-device-pixel-ratio: 3),
-only screen and (min-device-pixel-ratio: 3) {
-	.sk-asset.sk-Dolor-sit-amet-ut-e {
-		background-image: url("images/Dolor sit amet, ut e@3x.png");
-		background-size: 663px 192px;
-	}
-}
-.sk-asset.sk-Rectangle-2 {
-	width: 791px;
-	height: 220px;
-	left: 117px;
+.sk-asset.sk-Dec {
+	width: 36px;
+	height: 21px;
+	left: 848px;
 	top: 587px;
-	background-image: url("images/Rectangle 2.png");
+	background-image: url("images/Dec.png");
 }
 
 @media only screen and (min--moz-device-pixel-ratio: 2),
 only screen and (-o-min-device-pixel-ratio: 2/1),
 only screen and (-webkit-min-device-pixel-ratio: 2),
 only screen and (min-device-pixel-ratio: 2) {
-	.sk-asset.sk-Rectangle-2 {
-		background-image: url("images/Rectangle 2@2x.png");
-		background-size: 791px 220px;
+	.sk-asset.sk-Dec {
+		background-image: url("images/Dec@2x.png");
+		background-size: 36px 21px;
 	}
 }
 @media only screen and (min--moz-device-pixel-ratio: 3),
 only screen and (-o-min-device-pixel-ratio: 3/1),
 only screen and (-webkit-min-device-pixel-ratio: 3),
 only screen and (min-device-pixel-ratio: 3) {
-	.sk-asset.sk-Rectangle-2 {
-		background-image: url("images/Rectangle 2@3x.png");
-		background-size: 791px 220px;
+	.sk-asset.sk-Dec {
+		background-image: url("images/Dec@3x.png");
+		background-size: 36px 21px;
 	}
 }
-.sk-asset.sk-3-15 {
-	width: 65px;
-	height: 36px;
-	left: 150px;
-	top: 539px;
-	background-image: url("images/3/15.png");
+.sk-asset.sk-Nov {
+	width: 35px;
+	height: 21px;
+	left: 771px;
+	top: 587px;
+	background-image: url("images/Nov.png");
 }
 
 @media only screen and (min--moz-device-pixel-ratio: 2),
 only screen and (-o-min-device-pixel-ratio: 2/1),
 only screen and (-webkit-min-device-pixel-ratio: 2),
 only screen and (min-device-pixel-ratio: 2) {
-	.sk-asset.sk-3-15 {
-		background-image: url("images/3/15@2x.png");
-		background-size: 65px 36px;
+	.sk-asset.sk-Nov {
+		background-image: url("images/Nov@2x.png");
+		background-size: 35px 21px;
 	}
 }
 @media only screen and (min--moz-device-pixel-ratio: 3),
 only screen and (-o-min-device-pixel-ratio: 3/1),
 only screen and (-webkit-min-device-pixel-ratio: 3),
 only screen and (min-device-pixel-ratio: 3) {
-	.sk-asset.sk-3-15 {
-		background-image: url("images/3/15@3x.png");
-		background-size: 65px 36px;
+	.sk-asset.sk-Nov {
+		background-image: url("images/Nov@3x.png");
+		background-size: 35px 21px;
 	}
 }
-.sk-asset.sk-Dolor-sit-amet-ut-e {
-	width: 663px;
-	height: 192px;
-	left: 181px;
-	top: 615px;
-	background-image: url("images/Dolor sit amet, ut e.png");
+.sk-asset.sk-Oct {
+	width: 33px;
+	height: 21px;
+	left: 693px;
+	top: 587px;
+	background-image: url("images/Oct.png");
 }
 
 @media only screen and (min--moz-device-pixel-ratio: 2),
 only screen and (-o-min-device-pixel-ratio: 2/1),
 only screen and (-webkit-min-device-pixel-ratio: 2),
 only screen and (min-device-pixel-ratio: 2) {
-	.sk-asset.sk-Dolor-sit-amet-ut-e {
-		background-image: url("images/Dolor sit amet, ut e@2x.png");
-		background-size: 663px 192px;
+	.sk-asset.sk-Oct {
+		background-image: url("images/Oct@2x.png");
+		background-size: 33px 21px;
 	}
 }
 @media only screen and (min--moz-device-pixel-ratio: 3),
 only screen and (-o-min-device-pixel-ratio: 3/1),
 only screen and (-webkit-min-device-pixel-ratio: 3),
 only screen and (min-device-pixel-ratio: 3) {
-	.sk-asset.sk-Dolor-sit-amet-ut-e {
-		background-image: url("images/Dolor sit amet, ut e@3x.png");
-		background-size: 663px 192px;
+	.sk-asset.sk-Oct {
+		background-image: url("images/Oct@3x.png");
+		background-size: 33px 21px;
+	}
+}
+.sk-asset.sk-Sept {
+	width: 42px;
+	height: 21px;
+	left: 609px;
+	top: 587px;
+	background-image: url("images/Sept.png");
+}
+
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-Sept {
+		background-image: url("images/Sept@2x.png");
+		background-size: 42px 21px;
+	}
+}
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-Sept {
+		background-image: url("images/Sept@3x.png");
+		background-size: 42px 21px;
+	}
+}
+.sk-asset.sk-Aug {
+	width: 35px;
+	height: 21px;
+	left: 533px;
+	top: 587px;
+	background-image: url("images/Aug.png");
+}
+
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-Aug {
+		background-image: url("images/Aug@2x.png");
+		background-size: 35px 21px;
+	}
+}
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-Aug {
+		background-image: url("images/Aug@3x.png");
+		background-size: 35px 21px;
+	}
+}
+.sk-asset.sk-July {
+	width: 37px;
+	height: 21px;
+	left: 452px;
+	top: 587px;
+	background-image: url("images/July.png");
+}
+
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-July {
+		background-image: url("images/July@2x.png");
+		background-size: 37px 21px;
+	}
+}
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-July {
+		background-image: url("images/July@3x.png");
+		background-size: 37px 21px;
+	}
+}
+.sk-asset.sk-June {
+	width: 44px;
+	height: 21px;
+	left: 370px;
+	top: 587px;
+	background-image: url("images/June.png");
+}
+
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-June {
+		background-image: url("images/June@2x.png");
+		background-size: 44px 21px;
+	}
+}
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-June {
+		background-image: url("images/June@3x.png");
+		background-size: 44px 21px;
+	}
+}
+.sk-asset.sk-May {
+	width: 37px;
+	height: 21px;
+	left: 297px;
+	top: 587px;
+	background-image: url("images/May.png");
+}
+
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-May {
+		background-image: url("images/May@2x.png");
+		background-size: 37px 21px;
+	}
+}
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-May {
+		background-image: url("images/May@3x.png");
+		background-size: 37px 21px;
+	}
+}
+.sk-asset.sk-Apr {
+	width: 32px;
+	height: 21px;
+	left: 219px;
+	top: 586px;
+	background-image: url("images/Apr.png");
+}
+
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-Apr {
+		background-image: url("images/Apr@2x.png");
+		background-size: 32px 21px;
+	}
+}
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-Apr {
+		background-image: url("images/Apr@3x.png");
+		background-size: 32px 21px;
+	}
+}
+.sk-asset.sk-Mar {
+	width: 34px;
+	height: 21px;
+	left: 140px;
+	top: 587px;
+	background-image: url("images/Mar.png");
+}
+
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-Mar {
+		background-image: url("images/Mar@2x.png");
+		background-size: 34px 21px;
+	}
+}
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-Mar {
+		background-image: url("images/Mar@3x.png");
+		background-size: 34px 21px;
 	}
 }
 .sk-asset.sk-Rectangle-2 {
 	width: 791px;
 	height: 220px;
 	left: 117px;
-	top: 267px;
+	top: 303px;
 	background-image: url("images/Rectangle 2.png");
 }
 
@@ -253,29 +383,913 @@ only screen and (min-device-pixel-ratio: 3) {
 		background-size: 791px 220px;
 	}
 }
-.sk-asset.sk-Dolor-sit-amet-ut-e {
-	width: 663px;
-	height: 192px;
-	left: 181px;
-	top: 295px;
-	background-image: url("images/Dolor sit amet, ut e.png");
+.sk-asset.sk-Joy {
+	width: 53px;
+	height: 36px;
+	left: 131px;
+	top: 243px;
+	background-image: url("images/Joy.png");
 }
 
 @media only screen and (min--moz-device-pixel-ratio: 2),
 only screen and (-o-min-device-pixel-ratio: 2/1),
 only screen and (-webkit-min-device-pixel-ratio: 2),
 only screen and (min-device-pixel-ratio: 2) {
-	.sk-asset.sk-Dolor-sit-amet-ut-e {
-		background-image: url("images/Dolor sit amet, ut e@2x.png");
-		background-size: 663px 192px;
+	.sk-asset.sk-Joy {
+		background-image: url("images/Joy@2x.png");
+		background-size: 53px 36px;
 	}
 }
 @media only screen and (min--moz-device-pixel-ratio: 3),
 only screen and (-o-min-device-pixel-ratio: 3/1),
 only screen and (-webkit-min-device-pixel-ratio: 3),
 only screen and (min-device-pixel-ratio: 3) {
-	.sk-asset.sk-Dolor-sit-amet-ut-e {
-		background-image: url("images/Dolor sit amet, ut e@3x.png");
-		background-size: 663px 192px;
+	.sk-asset.sk-Joy {
+		background-image: url("images/Joy@3x.png");
+		background-size: 53px 36px;
+	}
+}
+.sk-asset.sk-Rectangle-2 {
+	width: 790px;
+	height: 284px;
+	left: 117px;
+	top: 303px;
+	background-image: url("images/Rectangle 2.png");
+}
+
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-Rectangle-2 {
+		background-image: url("images/Rectangle 2@2x.png");
+		background-size: 790px 284px;
+	}
+}
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-Rectangle-2 {
+		background-image: url("images/Rectangle 2@3x.png");
+		background-size: 790px 284px;
+	}
+}
+.sk-asset.sk-Line {
+	width: 2px;
+	height: 283px;
+	left: 195px;
+	top: 304px;
+	background-image: url("images/Line.png");
+}
+
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-Line {
+		background-image: url("images/Line@2x.png");
+		background-size: 2px 283px;
+	}
+}
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-Line {
+		background-image: url("images/Line@3x.png");
+		background-size: 2px 283px;
+	}
+}
+.sk-asset.sk-Line {
+	width: 2px;
+	height: 283px;
+	left: 274px;
+	top: 304px;
+	background-image: url("images/Line.png");
+}
+
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-Line {
+		background-image: url("images/Line@2x.png");
+		background-size: 2px 283px;
+	}
+}
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-Line {
+		background-image: url("images/Line@3x.png");
+		background-size: 2px 283px;
+	}
+}
+.sk-asset.sk-Line {
+	width: 2px;
+	height: 283px;
+	left: 353px;
+	top: 304px;
+	background-image: url("images/Line.png");
+}
+
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-Line {
+		background-image: url("images/Line@2x.png");
+		background-size: 2px 283px;
+	}
+}
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-Line {
+		background-image: url("images/Line@3x.png");
+		background-size: 2px 283px;
+	}
+}
+.sk-asset.sk-Line {
+	width: 2px;
+	height: 283px;
+	left: 432px;
+	top: 304px;
+	background-image: url("images/Line.png");
+}
+
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-Line {
+		background-image: url("images/Line@2x.png");
+		background-size: 2px 283px;
+	}
+}
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-Line {
+		background-image: url("images/Line@3x.png");
+		background-size: 2px 283px;
+	}
+}
+.sk-asset.sk-Line {
+	width: 2px;
+	height: 283px;
+	left: 511px;
+	top: 304px;
+	background-image: url("images/Line.png");
+}
+
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-Line {
+		background-image: url("images/Line@2x.png");
+		background-size: 2px 283px;
+	}
+}
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-Line {
+		background-image: url("images/Line@3x.png");
+		background-size: 2px 283px;
+	}
+}
+.sk-asset.sk-Line {
+	width: 2px;
+	height: 283px;
+	left: 590px;
+	top: 304px;
+	background-image: url("images/Line.png");
+}
+
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-Line {
+		background-image: url("images/Line@2x.png");
+		background-size: 2px 283px;
+	}
+}
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-Line {
+		background-image: url("images/Line@3x.png");
+		background-size: 2px 283px;
+	}
+}
+.sk-asset.sk-Line {
+	width: 2px;
+	height: 283px;
+	left: 669px;
+	top: 303px;
+	background-image: url("images/Line.png");
+}
+
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-Line {
+		background-image: url("images/Line@2x.png");
+		background-size: 2px 283px;
+	}
+}
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-Line {
+		background-image: url("images/Line@3x.png");
+		background-size: 2px 283px;
+	}
+}
+.sk-asset.sk-Line {
+	width: 2px;
+	height: 283px;
+	left: 748px;
+	top: 303px;
+	background-image: url("images/Line.png");
+}
+
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-Line {
+		background-image: url("images/Line@2x.png");
+		background-size: 2px 283px;
+	}
+}
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-Line {
+		background-image: url("images/Line@3x.png");
+		background-size: 2px 283px;
+	}
+}
+.sk-asset.sk-Line {
+	width: 2px;
+	height: 283px;
+	left: 827px;
+	top: 303px;
+	background-image: url("images/Line.png");
+}
+
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-Line {
+		background-image: url("images/Line@2x.png");
+		background-size: 2px 283px;
+	}
+}
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-Line {
+		background-image: url("images/Line@3x.png");
+		background-size: 2px 283px;
+	}
+}
+.sk-asset.sk-Path-3 {
+	width: 751px;
+	height: 166px;
+	left: 119px;
+	top: 372px;
+	background-image: url("images/Path 3.png");
+}
+
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-Path-3 {
+		background-image: url("images/Path 3@2x.png");
+		background-size: 751px 166px;
+	}
+}
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-Path-3 {
+		background-image: url("images/Path 3@3x.png");
+		background-size: 751px 166px;
+	}
+}
+.sk-asset.sk-Dec {
+	width: 36px;
+	height: 21px;
+	left: 848px;
+	top: 976px;
+	background-image: url("images/Dec.png");
+}
+
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-Dec {
+		background-image: url("images/Dec@2x.png");
+		background-size: 36px 21px;
+	}
+}
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-Dec {
+		background-image: url("images/Dec@3x.png");
+		background-size: 36px 21px;
+	}
+}
+.sk-asset.sk-Nov {
+	width: 35px;
+	height: 21px;
+	left: 771px;
+	top: 976px;
+	background-image: url("images/Nov.png");
+}
+
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-Nov {
+		background-image: url("images/Nov@2x.png");
+		background-size: 35px 21px;
+	}
+}
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-Nov {
+		background-image: url("images/Nov@3x.png");
+		background-size: 35px 21px;
+	}
+}
+.sk-asset.sk-Oct {
+	width: 33px;
+	height: 21px;
+	left: 693px;
+	top: 976px;
+	background-image: url("images/Oct.png");
+}
+
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-Oct {
+		background-image: url("images/Oct@2x.png");
+		background-size: 33px 21px;
+	}
+}
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-Oct {
+		background-image: url("images/Oct@3x.png");
+		background-size: 33px 21px;
+	}
+}
+.sk-asset.sk-Sept {
+	width: 42px;
+	height: 21px;
+	left: 609px;
+	top: 976px;
+	background-image: url("images/Sept.png");
+}
+
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-Sept {
+		background-image: url("images/Sept@2x.png");
+		background-size: 42px 21px;
+	}
+}
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-Sept {
+		background-image: url("images/Sept@3x.png");
+		background-size: 42px 21px;
+	}
+}
+.sk-asset.sk-Aug {
+	width: 35px;
+	height: 21px;
+	left: 533px;
+	top: 976px;
+	background-image: url("images/Aug.png");
+}
+
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-Aug {
+		background-image: url("images/Aug@2x.png");
+		background-size: 35px 21px;
+	}
+}
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-Aug {
+		background-image: url("images/Aug@3x.png");
+		background-size: 35px 21px;
+	}
+}
+.sk-asset.sk-July {
+	width: 37px;
+	height: 21px;
+	left: 452px;
+	top: 976px;
+	background-image: url("images/July.png");
+}
+
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-July {
+		background-image: url("images/July@2x.png");
+		background-size: 37px 21px;
+	}
+}
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-July {
+		background-image: url("images/July@3x.png");
+		background-size: 37px 21px;
+	}
+}
+.sk-asset.sk-June {
+	width: 44px;
+	height: 21px;
+	left: 370px;
+	top: 976px;
+	background-image: url("images/June.png");
+}
+
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-June {
+		background-image: url("images/June@2x.png");
+		background-size: 44px 21px;
+	}
+}
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-June {
+		background-image: url("images/June@3x.png");
+		background-size: 44px 21px;
+	}
+}
+.sk-asset.sk-May {
+	width: 37px;
+	height: 21px;
+	left: 297px;
+	top: 976px;
+	background-image: url("images/May.png");
+}
+
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-May {
+		background-image: url("images/May@2x.png");
+		background-size: 37px 21px;
+	}
+}
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-May {
+		background-image: url("images/May@3x.png");
+		background-size: 37px 21px;
+	}
+}
+.sk-asset.sk-Apr {
+	width: 32px;
+	height: 21px;
+	left: 219px;
+	top: 975px;
+	background-image: url("images/Apr.png");
+}
+
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-Apr {
+		background-image: url("images/Apr@2x.png");
+		background-size: 32px 21px;
+	}
+}
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-Apr {
+		background-image: url("images/Apr@3x.png");
+		background-size: 32px 21px;
+	}
+}
+.sk-asset.sk-Mar {
+	width: 34px;
+	height: 21px;
+	left: 140px;
+	top: 976px;
+	background-image: url("images/Mar.png");
+}
+
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-Mar {
+		background-image: url("images/Mar@2x.png");
+		background-size: 34px 21px;
+	}
+}
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-Mar {
+		background-image: url("images/Mar@3x.png");
+		background-size: 34px 21px;
+	}
+}
+.sk-asset.sk-Rectangle-2 {
+	width: 791px;
+	height: 220px;
+	left: 117px;
+	top: 692px;
+	background-image: url("images/Rectangle 2.png");
+}
+
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-Rectangle-2 {
+		background-image: url("images/Rectangle 2@2x.png");
+		background-size: 791px 220px;
+	}
+}
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-Rectangle-2 {
+		background-image: url("images/Rectangle 2@3x.png");
+		background-size: 791px 220px;
+	}
+}
+.sk-asset.sk-Disgust {
+	width: 114px;
+	height: 36px;
+	left: 139px;
+	top: 650px;
+	background-image: url("images/Disgust.png");
+}
+
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-Disgust {
+		background-image: url("images/Disgust@2x.png");
+		background-size: 114px 36px;
+	}
+}
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-Disgust {
+		background-image: url("images/Disgust@3x.png");
+		background-size: 114px 36px;
+	}
+}
+.sk-asset.sk-Rectangle-2 {
+	width: 790px;
+	height: 284px;
+	left: 117px;
+	top: 692px;
+	background-image: url("images/Rectangle 2.png");
+}
+
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-Rectangle-2 {
+		background-image: url("images/Rectangle 2@2x.png");
+		background-size: 790px 284px;
+	}
+}
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-Rectangle-2 {
+		background-image: url("images/Rectangle 2@3x.png");
+		background-size: 790px 284px;
+	}
+}
+.sk-asset.sk-Line {
+	width: 2px;
+	height: 283px;
+	left: 195px;
+	top: 692px;
+	background-image: url("images/Line.png");
+}
+
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-Line {
+		background-image: url("images/Line@2x.png");
+		background-size: 2px 283px;
+	}
+}
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-Line {
+		background-image: url("images/Line@3x.png");
+		background-size: 2px 283px;
+	}
+}
+.sk-asset.sk-Line {
+	width: 2px;
+	height: 283px;
+	left: 274px;
+	top: 692px;
+	background-image: url("images/Line.png");
+}
+
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-Line {
+		background-image: url("images/Line@2x.png");
+		background-size: 2px 283px;
+	}
+}
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-Line {
+		background-image: url("images/Line@3x.png");
+		background-size: 2px 283px;
+	}
+}
+.sk-asset.sk-Line {
+	width: 2px;
+	height: 283px;
+	left: 353px;
+	top: 692px;
+	background-image: url("images/Line.png");
+}
+
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-Line {
+		background-image: url("images/Line@2x.png");
+		background-size: 2px 283px;
+	}
+}
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-Line {
+		background-image: url("images/Line@3x.png");
+		background-size: 2px 283px;
+	}
+}
+.sk-asset.sk-Line {
+	width: 2px;
+	height: 283px;
+	left: 432px;
+	top: 692px;
+	background-image: url("images/Line.png");
+}
+
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-Line {
+		background-image: url("images/Line@2x.png");
+		background-size: 2px 283px;
+	}
+}
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-Line {
+		background-image: url("images/Line@3x.png");
+		background-size: 2px 283px;
+	}
+}
+.sk-asset.sk-Line {
+	width: 2px;
+	height: 283px;
+	left: 511px;
+	top: 692px;
+	background-image: url("images/Line.png");
+}
+
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-Line {
+		background-image: url("images/Line@2x.png");
+		background-size: 2px 283px;
+	}
+}
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-Line {
+		background-image: url("images/Line@3x.png");
+		background-size: 2px 283px;
+	}
+}
+.sk-asset.sk-Line {
+	width: 2px;
+	height: 283px;
+	left: 590px;
+	top: 692px;
+	background-image: url("images/Line.png");
+}
+
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-Line {
+		background-image: url("images/Line@2x.png");
+		background-size: 2px 283px;
+	}
+}
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-Line {
+		background-image: url("images/Line@3x.png");
+		background-size: 2px 283px;
+	}
+}
+.sk-asset.sk-Line {
+	width: 2px;
+	height: 283px;
+	left: 669px;
+	top: 692px;
+	background-image: url("images/Line.png");
+}
+
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-Line {
+		background-image: url("images/Line@2x.png");
+		background-size: 2px 283px;
+	}
+}
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-Line {
+		background-image: url("images/Line@3x.png");
+		background-size: 2px 283px;
+	}
+}
+.sk-asset.sk-Line {
+	width: 2px;
+	height: 283px;
+	left: 748px;
+	top: 692px;
+	background-image: url("images/Line.png");
+}
+
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-Line {
+		background-image: url("images/Line@2x.png");
+		background-size: 2px 283px;
+	}
+}
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-Line {
+		background-image: url("images/Line@3x.png");
+		background-size: 2px 283px;
+	}
+}
+.sk-asset.sk-Line {
+	width: 2px;
+	height: 283px;
+	left: 827px;
+	top: 692px;
+	background-image: url("images/Line.png");
+}
+
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-Line {
+		background-image: url("images/Line@2x.png");
+		background-size: 2px 283px;
+	}
+}
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-Line {
+		background-image: url("images/Line@3x.png");
+		background-size: 2px 283px;
+	}
+}
+.sk-asset.sk-Path-3 {
+	width: 754px;
+	height: 131px;
+	left: 118px;
+	top: 794px;
+	background-image: url("images/Path 3.png");
+}
+
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-Path-3 {
+		background-image: url("images/Path 3@2x.png");
+		background-size: 754px 131px;
+	}
+}
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-Path-3 {
+		background-image: url("images/Path 3@3x.png");
+		background-size: 754px 131px;
 	}
 }

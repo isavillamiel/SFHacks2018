@@ -12,8 +12,8 @@
 	background-repeat: no-repeat;
 }
 
-/* Specific to HOME */
-.sk-ab.sk-HOME {
+/* Specific to HISTORY */
+.sk-ab.sk-HISTORY {
 	background-color: #FFFFFF;
 	width: 1024px;
 	height: 1024px;
@@ -21,7 +21,7 @@
 
 .sk-asset.sk-Rectangle-2 {
 	width: 791px;
-	height: 274px;
+	height: 220px;
 	left: 117px;
 	top: 267px;
 	background-image: url("images/Rectangle 2.png");
@@ -33,7 +33,7 @@ only screen and (-webkit-min-device-pixel-ratio: 2),
 only screen and (min-device-pixel-ratio: 2) {
 	.sk-asset.sk-Rectangle-2 {
 		background-image: url("images/Rectangle 2@2x.png");
-		background-size: 791px 274px;
+		background-size: 791px 220px;
 	}
 }
 @media only screen and (min--moz-device-pixel-ratio: 3),
@@ -42,7 +42,7 @@ only screen and (-webkit-min-device-pixel-ratio: 3),
 only screen and (min-device-pixel-ratio: 3) {
 	.sk-asset.sk-Rectangle-2 {
 		background-image: url("images/Rectangle 2@3x.png");
-		background-size: 791px 274px;
+		background-size: 791px 220px;
 	}
 }
 .sk-asset.sk-Group {
@@ -71,141 +71,11 @@ only screen and (min-device-pixel-ratio: 3) {
 		background-size: 166px 99px;
 	}
 }
-.sk-asset.sk-Welcome-David- {
-	width: 258px;
-	height: 36px;
-	left: 383px;
-	top: 183px;
-	background-image: url("images/Welcome, David..png");
-}
-
-@media only screen and (min--moz-device-pixel-ratio: 2),
-only screen and (-o-min-device-pixel-ratio: 2/1),
-only screen and (-webkit-min-device-pixel-ratio: 2),
-only screen and (min-device-pixel-ratio: 2) {
-	.sk-asset.sk-Welcome-David- {
-		background-image: url("images/Welcome, David.@2x.png");
-		background-size: 258px 36px;
-	}
-}
-@media only screen and (min--moz-device-pixel-ratio: 3),
-only screen and (-o-min-device-pixel-ratio: 3/1),
-only screen and (-webkit-min-device-pixel-ratio: 3),
-only screen and (min-device-pixel-ratio: 3) {
-	.sk-asset.sk-Welcome-David- {
-		background-image: url("images/Welcome, David.@3x.png");
-		background-size: 258px 36px;
-	}
-}
-.sk-asset.sk--How-are-you-feelin {
-	width: 283px;
-	height: 24px;
-	left: 146px;
-	top: 286px;
-	background-image: url("images/| How are you feelin.png");
-}
-
-@media only screen and (min--moz-device-pixel-ratio: 2),
-only screen and (-o-min-device-pixel-ratio: 2/1),
-only screen and (-webkit-min-device-pixel-ratio: 2),
-only screen and (min-device-pixel-ratio: 2) {
-	.sk-asset.sk--How-are-you-feelin {
-		background-image: url("images/| How are you feelin@2x.png");
-		background-size: 283px 24px;
-	}
-}
-@media only screen and (min--moz-device-pixel-ratio: 3),
-only screen and (-o-min-device-pixel-ratio: 3/1),
-only screen and (-webkit-min-device-pixel-ratio: 3),
-only screen and (min-device-pixel-ratio: 3) {
-	.sk-asset.sk--How-are-you-feelin {
-		background-image: url("images/| How are you feelin@3x.png");
-		background-size: 283px 24px;
-	}
-}
-.sk-asset.sk-Rectangle-3 {
-	width: 124px;
-	height: 36px;
-	left: 450px;
-	top: 602px;
-	background-image: url("images/Rectangle 3.png");
-}
-
-@media only screen and (min--moz-device-pixel-ratio: 2),
-only screen and (-o-min-device-pixel-ratio: 2/1),
-only screen and (-webkit-min-device-pixel-ratio: 2),
-only screen and (min-device-pixel-ratio: 2) {
-	.sk-asset.sk-Rectangle-3 {
-		background-image: url("images/Rectangle 3@2x.png");
-		background-size: 124px 36px;
-	}
-}
-@media only screen and (min--moz-device-pixel-ratio: 3),
-only screen and (-o-min-device-pixel-ratio: 3/1),
-only screen and (-webkit-min-device-pixel-ratio: 3),
-only screen and (min-device-pixel-ratio: 3) {
-	.sk-asset.sk-Rectangle-3 {
-		background-image: url("images/Rectangle 3@3x.png");
-		background-size: 124px 36px;
-	}
-}
-.sk-asset.sk-Rectangle-3 {
-	width: 258px;
-	height: 78px;
-	left: 125px;
-	top: 812px;
-	background-image: url("images/Rectangle 3.png");
-}
-
-@media only screen and (min--moz-device-pixel-ratio: 2),
-only screen and (-o-min-device-pixel-ratio: 2/1),
-only screen and (-webkit-min-device-pixel-ratio: 2),
-only screen and (min-device-pixel-ratio: 2) {
-	.sk-asset.sk-Rectangle-3 {
-		background-image: url("images/Rectangle 3@2x.png");
-		background-size: 258px 78px;
-	}
-}
-@media only screen and (min--moz-device-pixel-ratio: 3),
-only screen and (-o-min-device-pixel-ratio: 3/1),
-only screen and (-webkit-min-device-pixel-ratio: 3),
-only screen and (min-device-pixel-ratio: 3) {
-	.sk-asset.sk-Rectangle-3 {
-		background-image: url("images/Rectangle 3@3x.png");
-		background-size: 258px 78px;
-	}
-}
-.sk-asset.sk-Rectangle-3 {
-	width: 258px;
-	height: 78px;
-	left: 641px;
-	top: 812px;
-	background-image: url("images/Rectangle 3.png");
-}
-
-@media only screen and (min--moz-device-pixel-ratio: 2),
-only screen and (-o-min-device-pixel-ratio: 2/1),
-only screen and (-webkit-min-device-pixel-ratio: 2),
-only screen and (min-device-pixel-ratio: 2) {
-	.sk-asset.sk-Rectangle-3 {
-		background-image: url("images/Rectangle 3@2x.png");
-		background-size: 258px 78px;
-	}
-}
-@media only screen and (min--moz-device-pixel-ratio: 3),
-only screen and (-o-min-device-pixel-ratio: 3/1),
-only screen and (-webkit-min-device-pixel-ratio: 3),
-only screen and (min-device-pixel-ratio: 3) {
-	.sk-asset.sk-Rectangle-3 {
-		background-image: url("images/Rectangle 3@3x.png");
-		background-size: 258px 78px;
-	}
-}
 .sk-asset.sk-History {
 	width: 113px;
 	height: 36px;
-	left: 198px;
-	top: 830px;
+	left: 456px;
+	top: 183px;
 	background-image: url("images/History.png");
 }
 
@@ -227,81 +97,185 @@ only screen and (min-device-pixel-ratio: 3) {
 		background-size: 113px 36px;
 	}
 }
-.sk-asset.sk-Analysis {
-	width: 130px;
+.sk-asset.sk-3-16 {
+	width: 66px;
 	height: 36px;
-	left: 705px;
-	top: 830px;
-	background-image: url("images/Analysis.png");
+	left: 149px;
+	top: 219px;
+	background-image: url("images/3/16.png");
 }
 
 @media only screen and (min--moz-device-pixel-ratio: 2),
 only screen and (-o-min-device-pixel-ratio: 2/1),
 only screen and (-webkit-min-device-pixel-ratio: 2),
 only screen and (min-device-pixel-ratio: 2) {
-	.sk-asset.sk-Analysis {
-		background-image: url("images/Analysis@2x.png");
-		background-size: 130px 36px;
+	.sk-asset.sk-3-16 {
+		background-image: url("images/3/16@2x.png");
+		background-size: 66px 36px;
 	}
 }
 @media only screen and (min--moz-device-pixel-ratio: 3),
 only screen and (-o-min-device-pixel-ratio: 3/1),
 only screen and (-webkit-min-device-pixel-ratio: 3),
 only screen and (min-device-pixel-ratio: 3) {
-	.sk-asset.sk-Analysis {
-		background-image: url("images/Analysis@3x.png");
-		background-size: 130px 36px;
+	.sk-asset.sk-3-16 {
+		background-image: url("images/3/16@3x.png");
+		background-size: 66px 36px;
 	}
 }
-.sk-asset.sk-Submit {
-	width: 70px;
-	height: 24px;
-	left: 477px;
-	top: 606px;
-	background-image: url("images/Submit.png");
+.sk-asset.sk-Dolor-sit-amet-ut-e {
+	width: 663px;
+	height: 192px;
+	left: 181px;
+	top: 295px;
+	background-image: url("images/Dolor sit amet, ut e.png");
 }
 
 @media only screen and (min--moz-device-pixel-ratio: 2),
 only screen and (-o-min-device-pixel-ratio: 2/1),
 only screen and (-webkit-min-device-pixel-ratio: 2),
 only screen and (min-device-pixel-ratio: 2) {
-	.sk-asset.sk-Submit {
-		background-image: url("images/Submit@2x.png");
-		background-size: 70px 24px;
+	.sk-asset.sk-Dolor-sit-amet-ut-e {
+		background-image: url("images/Dolor sit amet, ut e@2x.png");
+		background-size: 663px 192px;
 	}
 }
 @media only screen and (min--moz-device-pixel-ratio: 3),
 only screen and (-o-min-device-pixel-ratio: 3/1),
 only screen and (-webkit-min-device-pixel-ratio: 3),
 only screen and (min-device-pixel-ratio: 3) {
-	.sk-asset.sk-Submit {
-		background-image: url("images/Submit@3x.png");
-		background-size: 70px 24px;
+	.sk-asset.sk-Dolor-sit-amet-ut-e {
+		background-image: url("images/Dolor sit amet, ut e@3x.png");
+		background-size: 663px 192px;
 	}
 }
-.sk-asset.sk-Combined-Shape {
-	width: 60px;
-	height: 24px;
-	left: 482px;
-	top: 726px;
-	background-image: url("images/Combined Shape.png");
+.sk-asset.sk-Rectangle-2 {
+	width: 791px;
+	height: 220px;
+	left: 117px;
+	top: 587px;
+	background-image: url("images/Rectangle 2.png");
 }
 
 @media only screen and (min--moz-device-pixel-ratio: 2),
 only screen and (-o-min-device-pixel-ratio: 2/1),
 only screen and (-webkit-min-device-pixel-ratio: 2),
 only screen and (min-device-pixel-ratio: 2) {
-	.sk-asset.sk-Combined-Shape {
-		background-image: url("images/Combined Shape@2x.png");
-		background-size: 60px 24px;
+	.sk-asset.sk-Rectangle-2 {
+		background-image: url("images/Rectangle 2@2x.png");
+		background-size: 791px 220px;
 	}
 }
 @media only screen and (min--moz-device-pixel-ratio: 3),
 only screen and (-o-min-device-pixel-ratio: 3/1),
 only screen and (-webkit-min-device-pixel-ratio: 3),
 only screen and (min-device-pixel-ratio: 3) {
-	.sk-asset.sk-Combined-Shape {
-		background-image: url("images/Combined Shape@3x.png");
-		background-size: 60px 24px;
+	.sk-asset.sk-Rectangle-2 {
+		background-image: url("images/Rectangle 2@3x.png");
+		background-size: 791px 220px;
+	}
+}
+.sk-asset.sk-3-15 {
+	width: 65px;
+	height: 36px;
+	left: 150px;
+	top: 539px;
+	background-image: url("images/3/15.png");
+}
+
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-3-15 {
+		background-image: url("images/3/15@2x.png");
+		background-size: 65px 36px;
+	}
+}
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-3-15 {
+		background-image: url("images/3/15@3x.png");
+		background-size: 65px 36px;
+	}
+}
+.sk-asset.sk-Dolor-sit-amet-ut-e {
+	width: 663px;
+	height: 192px;
+	left: 181px;
+	top: 615px;
+	background-image: url("images/Dolor sit amet, ut e.png");
+}
+
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-Dolor-sit-amet-ut-e {
+		background-image: url("images/Dolor sit amet, ut e@2x.png");
+		background-size: 663px 192px;
+	}
+}
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-Dolor-sit-amet-ut-e {
+		background-image: url("images/Dolor sit amet, ut e@3x.png");
+		background-size: 663px 192px;
+	}
+}
+.sk-asset.sk-Rectangle-2 {
+	width: 791px;
+	height: 220px;
+	left: 117px;
+	top: 267px;
+	background-image: url("images/Rectangle 2.png");
+}
+
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-Rectangle-2 {
+		background-image: url("images/Rectangle 2@2x.png");
+		background-size: 791px 220px;
+	}
+}
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-Rectangle-2 {
+		background-image: url("images/Rectangle 2@3x.png");
+		background-size: 791px 220px;
+	}
+}
+.sk-asset.sk-Dolor-sit-amet-ut-e {
+	width: 663px;
+	height: 192px;
+	left: 181px;
+	top: 295px;
+	background-image: url("images/Dolor sit amet, ut e.png");
+}
+
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-Dolor-sit-amet-ut-e {
+		background-image: url("images/Dolor sit amet, ut e@2x.png");
+		background-size: 663px 192px;
+	}
+}
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-Dolor-sit-amet-ut-e {
+		background-image: url("images/Dolor sit amet, ut e@3x.png");
+		background-size: 663px 192px;
 	}
 }

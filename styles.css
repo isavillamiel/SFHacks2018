@@ -12,8 +12,8 @@
 	background-repeat: no-repeat;
 }
 
-/* Specific to ANALYSIS */
-.sk-ab.sk-ANALYSIS {
+/* Specific to LOGIN 2 */
+.sk-ab.sk-LOGIN-2 {
 	background-color: #FFFFFF;
 	width: 1024px;
 	height: 1024px;
@@ -45,1251 +45,211 @@ only screen and (min-device-pixel-ratio: 3) {
 		background-size: 166px 99px;
 	}
 }
-.sk-asset.sk-Analysis {
-	width: 130px;
+.sk-asset.sk-What-s-your-phone-nu {
+	width: 436px;
 	height: 36px;
-	left: 447px;
-	top: 183px;
-	background-image: url("images/Analysis.png");
+	left: 294px;
+	top: 273px;
+	background-image: url("images/What’s your phone nu.png");
 }
 
 @media only screen and (min--moz-device-pixel-ratio: 2),
 only screen and (-o-min-device-pixel-ratio: 2/1),
 only screen and (-webkit-min-device-pixel-ratio: 2),
 only screen and (min-device-pixel-ratio: 2) {
-	.sk-asset.sk-Analysis {
-		background-image: url("images/Analysis@2x.png");
-		background-size: 130px 36px;
+	.sk-asset.sk-What-s-your-phone-nu {
+		background-image: url("images/What’s your phone nu@2x.png");
+		background-size: 436px 36px;
 	}
 }
 @media only screen and (min--moz-device-pixel-ratio: 3),
 only screen and (-o-min-device-pixel-ratio: 3/1),
 only screen and (-webkit-min-device-pixel-ratio: 3),
 only screen and (min-device-pixel-ratio: 3) {
-	.sk-asset.sk-Analysis {
-		background-image: url("images/Analysis@3x.png");
-		background-size: 130px 36px;
+	.sk-asset.sk-What-s-your-phone-nu {
+		background-image: url("images/What’s your phone nu@3x.png");
+		background-size: 436px 36px;
 	}
 }
-.sk-asset.sk-2018 {
-	width: 49px;
+.sk-asset.sk-- {
+	width: 246px;
+	height: 95px;
+	left: 236px;
+	top: 382px;
+	background-image: url("images/( ).png");
+}
+
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-- {
+		background-image: url("images/( )@2x.png");
+		background-size: 246px 95px;
+	}
+}
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-- {
+		background-image: url("images/( )@3x.png");
+		background-size: 246px 95px;
+	}
+}
+.sk-asset.sk-123 {
+	width: 115px;
+	height: 76px;
+	left: 302px;
+	top: 391px;
+	background-image: url("images/123.png");
+}
+
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-123 {
+		background-image: url("images/123@2x.png");
+		background-size: 115px 76px;
+	}
+}
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-123 {
+		background-image: url("images/123@3x.png");
+		background-size: 115px 76px;
+	}
+}
+.sk-asset.sk-456 {
+	width: 128px;
+	height: 76px;
+	left: 446px;
+	top: 391px;
+	background-image: url("images/456.png");
+}
+
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-456 {
+		background-image: url("images/456@2x.png");
+		background-size: 128px 76px;
+	}
+}
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-456 {
+		background-image: url("images/456@3x.png");
+		background-size: 128px 76px;
+	}
+}
+.sk-asset.sk-7890 {
+	width: 166px;
+	height: 76px;
+	left: 613px;
+	top: 391px;
+	background-image: url("images/7890.png");
+}
+
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-7890 {
+		background-image: url("images/7890@2x.png");
+		background-size: 166px 76px;
+	}
+}
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-7890 {
+		background-image: url("images/7890@3x.png");
+		background-size: 166px 76px;
+	}
+}
+.sk-asset.sk-Rectangle-3 {
+	width: 124px;
+	height: 36px;
+	left: 450px;
+	top: 592px;
+	background-image: url("images/Rectangle 3.png");
+}
+
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-Rectangle-3 {
+		background-image: url("images/Rectangle 3@2x.png");
+		background-size: 124px 36px;
+	}
+}
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-Rectangle-3 {
+		background-image: url("images/Rectangle 3@3x.png");
+		background-size: 124px 36px;
+	}
+}
+.sk-asset.sk-Submit {
+	width: 70px;
 	height: 24px;
-	left: 488px;
-	top: 219px;
-	background-image: url("images/2018.png");
+	left: 477px;
+	top: 596px;
+	background-image: url("images/Submit.png");
 }
 
 @media only screen and (min--moz-device-pixel-ratio: 2),
 only screen and (-o-min-device-pixel-ratio: 2/1),
 only screen and (-webkit-min-device-pixel-ratio: 2),
 only screen and (min-device-pixel-ratio: 2) {
-	.sk-asset.sk-2018 {
-		background-image: url("images/2018@2x.png");
-		background-size: 49px 24px;
+	.sk-asset.sk-Submit {
+		background-image: url("images/Submit@2x.png");
+		background-size: 70px 24px;
 	}
 }
 @media only screen and (min--moz-device-pixel-ratio: 3),
 only screen and (-o-min-device-pixel-ratio: 3/1),
 only screen and (-webkit-min-device-pixel-ratio: 3),
 only screen and (min-device-pixel-ratio: 3) {
-	.sk-asset.sk-2018 {
-		background-image: url("images/2018@3x.png");
-		background-size: 49px 24px;
+	.sk-asset.sk-Submit {
+		background-image: url("images/Submit@3x.png");
+		background-size: 70px 24px;
 	}
 }
-.sk-asset.sk-Dec {
-	width: 36px;
-	height: 21px;
-	left: 848px;
-	top: 587px;
-	background-image: url("images/Dec.png");
+.sk-asset.sk-- {
+	width: 57px;
+	height: 86px;
+	left: 569px;
+	top: 382px;
+	background-image: url("images/-.png");
 }
 
 @media only screen and (min--moz-device-pixel-ratio: 2),
 only screen and (-o-min-device-pixel-ratio: 2/1),
 only screen and (-webkit-min-device-pixel-ratio: 2),
 only screen and (min-device-pixel-ratio: 2) {
-	.sk-asset.sk-Dec {
-		background-image: url("images/Dec@2x.png");
-		background-size: 36px 21px;
+	.sk-asset.sk-- {
+		background-image: url("images/-@2x.png");
+		background-size: 57px 86px;
 	}
 }
 @media only screen and (min--moz-device-pixel-ratio: 3),
 only screen and (-o-min-device-pixel-ratio: 3/1),
 only screen and (-webkit-min-device-pixel-ratio: 3),
 only screen and (min-device-pixel-ratio: 3) {
-	.sk-asset.sk-Dec {
-		background-image: url("images/Dec@3x.png");
-		background-size: 36px 21px;
-	}
-}
-.sk-asset.sk-Nov {
-	width: 35px;
-	height: 21px;
-	left: 771px;
-	top: 587px;
-	background-image: url("images/Nov.png");
-}
-
-@media only screen and (min--moz-device-pixel-ratio: 2),
-only screen and (-o-min-device-pixel-ratio: 2/1),
-only screen and (-webkit-min-device-pixel-ratio: 2),
-only screen and (min-device-pixel-ratio: 2) {
-	.sk-asset.sk-Nov {
-		background-image: url("images/Nov@2x.png");
-		background-size: 35px 21px;
-	}
-}
-@media only screen and (min--moz-device-pixel-ratio: 3),
-only screen and (-o-min-device-pixel-ratio: 3/1),
-only screen and (-webkit-min-device-pixel-ratio: 3),
-only screen and (min-device-pixel-ratio: 3) {
-	.sk-asset.sk-Nov {
-		background-image: url("images/Nov@3x.png");
-		background-size: 35px 21px;
-	}
-}
-.sk-asset.sk-Oct {
-	width: 33px;
-	height: 21px;
-	left: 693px;
-	top: 587px;
-	background-image: url("images/Oct.png");
-}
-
-@media only screen and (min--moz-device-pixel-ratio: 2),
-only screen and (-o-min-device-pixel-ratio: 2/1),
-only screen and (-webkit-min-device-pixel-ratio: 2),
-only screen and (min-device-pixel-ratio: 2) {
-	.sk-asset.sk-Oct {
-		background-image: url("images/Oct@2x.png");
-		background-size: 33px 21px;
-	}
-}
-@media only screen and (min--moz-device-pixel-ratio: 3),
-only screen and (-o-min-device-pixel-ratio: 3/1),
-only screen and (-webkit-min-device-pixel-ratio: 3),
-only screen and (min-device-pixel-ratio: 3) {
-	.sk-asset.sk-Oct {
-		background-image: url("images/Oct@3x.png");
-		background-size: 33px 21px;
-	}
-}
-.sk-asset.sk-Sept {
-	width: 42px;
-	height: 21px;
-	left: 609px;
-	top: 587px;
-	background-image: url("images/Sept.png");
-}
-
-@media only screen and (min--moz-device-pixel-ratio: 2),
-only screen and (-o-min-device-pixel-ratio: 2/1),
-only screen and (-webkit-min-device-pixel-ratio: 2),
-only screen and (min-device-pixel-ratio: 2) {
-	.sk-asset.sk-Sept {
-		background-image: url("images/Sept@2x.png");
-		background-size: 42px 21px;
-	}
-}
-@media only screen and (min--moz-device-pixel-ratio: 3),
-only screen and (-o-min-device-pixel-ratio: 3/1),
-only screen and (-webkit-min-device-pixel-ratio: 3),
-only screen and (min-device-pixel-ratio: 3) {
-	.sk-asset.sk-Sept {
-		background-image: url("images/Sept@3x.png");
-		background-size: 42px 21px;
-	}
-}
-.sk-asset.sk-Aug {
-	width: 35px;
-	height: 21px;
-	left: 533px;
-	top: 587px;
-	background-image: url("images/Aug.png");
-}
-
-@media only screen and (min--moz-device-pixel-ratio: 2),
-only screen and (-o-min-device-pixel-ratio: 2/1),
-only screen and (-webkit-min-device-pixel-ratio: 2),
-only screen and (min-device-pixel-ratio: 2) {
-	.sk-asset.sk-Aug {
-		background-image: url("images/Aug@2x.png");
-		background-size: 35px 21px;
-	}
-}
-@media only screen and (min--moz-device-pixel-ratio: 3),
-only screen and (-o-min-device-pixel-ratio: 3/1),
-only screen and (-webkit-min-device-pixel-ratio: 3),
-only screen and (min-device-pixel-ratio: 3) {
-	.sk-asset.sk-Aug {
-		background-image: url("images/Aug@3x.png");
-		background-size: 35px 21px;
-	}
-}
-.sk-asset.sk-July {
-	width: 37px;
-	height: 21px;
-	left: 452px;
-	top: 587px;
-	background-image: url("images/July.png");
-}
-
-@media only screen and (min--moz-device-pixel-ratio: 2),
-only screen and (-o-min-device-pixel-ratio: 2/1),
-only screen and (-webkit-min-device-pixel-ratio: 2),
-only screen and (min-device-pixel-ratio: 2) {
-	.sk-asset.sk-July {
-		background-image: url("images/July@2x.png");
-		background-size: 37px 21px;
-	}
-}
-@media only screen and (min--moz-device-pixel-ratio: 3),
-only screen and (-o-min-device-pixel-ratio: 3/1),
-only screen and (-webkit-min-device-pixel-ratio: 3),
-only screen and (min-device-pixel-ratio: 3) {
-	.sk-asset.sk-July {
-		background-image: url("images/July@3x.png");
-		background-size: 37px 21px;
-	}
-}
-.sk-asset.sk-June {
-	width: 44px;
-	height: 21px;
-	left: 370px;
-	top: 587px;
-	background-image: url("images/June.png");
-}
-
-@media only screen and (min--moz-device-pixel-ratio: 2),
-only screen and (-o-min-device-pixel-ratio: 2/1),
-only screen and (-webkit-min-device-pixel-ratio: 2),
-only screen and (min-device-pixel-ratio: 2) {
-	.sk-asset.sk-June {
-		background-image: url("images/June@2x.png");
-		background-size: 44px 21px;
-	}
-}
-@media only screen and (min--moz-device-pixel-ratio: 3),
-only screen and (-o-min-device-pixel-ratio: 3/1),
-only screen and (-webkit-min-device-pixel-ratio: 3),
-only screen and (min-device-pixel-ratio: 3) {
-	.sk-asset.sk-June {
-		background-image: url("images/June@3x.png");
-		background-size: 44px 21px;
-	}
-}
-.sk-asset.sk-May {
-	width: 37px;
-	height: 21px;
-	left: 297px;
-	top: 587px;
-	background-image: url("images/May.png");
-}
-
-@media only screen and (min--moz-device-pixel-ratio: 2),
-only screen and (-o-min-device-pixel-ratio: 2/1),
-only screen and (-webkit-min-device-pixel-ratio: 2),
-only screen and (min-device-pixel-ratio: 2) {
-	.sk-asset.sk-May {
-		background-image: url("images/May@2x.png");
-		background-size: 37px 21px;
-	}
-}
-@media only screen and (min--moz-device-pixel-ratio: 3),
-only screen and (-o-min-device-pixel-ratio: 3/1),
-only screen and (-webkit-min-device-pixel-ratio: 3),
-only screen and (min-device-pixel-ratio: 3) {
-	.sk-asset.sk-May {
-		background-image: url("images/May@3x.png");
-		background-size: 37px 21px;
-	}
-}
-.sk-asset.sk-Apr {
-	width: 32px;
-	height: 21px;
-	left: 219px;
-	top: 586px;
-	background-image: url("images/Apr.png");
-}
-
-@media only screen and (min--moz-device-pixel-ratio: 2),
-only screen and (-o-min-device-pixel-ratio: 2/1),
-only screen and (-webkit-min-device-pixel-ratio: 2),
-only screen and (min-device-pixel-ratio: 2) {
-	.sk-asset.sk-Apr {
-		background-image: url("images/Apr@2x.png");
-		background-size: 32px 21px;
-	}
-}
-@media only screen and (min--moz-device-pixel-ratio: 3),
-only screen and (-o-min-device-pixel-ratio: 3/1),
-only screen and (-webkit-min-device-pixel-ratio: 3),
-only screen and (min-device-pixel-ratio: 3) {
-	.sk-asset.sk-Apr {
-		background-image: url("images/Apr@3x.png");
-		background-size: 32px 21px;
-	}
-}
-.sk-asset.sk-Mar {
-	width: 34px;
-	height: 21px;
-	left: 140px;
-	top: 587px;
-	background-image: url("images/Mar.png");
-}
-
-@media only screen and (min--moz-device-pixel-ratio: 2),
-only screen and (-o-min-device-pixel-ratio: 2/1),
-only screen and (-webkit-min-device-pixel-ratio: 2),
-only screen and (min-device-pixel-ratio: 2) {
-	.sk-asset.sk-Mar {
-		background-image: url("images/Mar@2x.png");
-		background-size: 34px 21px;
-	}
-}
-@media only screen and (min--moz-device-pixel-ratio: 3),
-only screen and (-o-min-device-pixel-ratio: 3/1),
-only screen and (-webkit-min-device-pixel-ratio: 3),
-only screen and (min-device-pixel-ratio: 3) {
-	.sk-asset.sk-Mar {
-		background-image: url("images/Mar@3x.png");
-		background-size: 34px 21px;
-	}
-}
-.sk-asset.sk-Rectangle-2 {
-	width: 791px;
-	height: 220px;
-	left: 117px;
-	top: 303px;
-	background-image: url("images/Rectangle 2.png");
-}
-
-@media only screen and (min--moz-device-pixel-ratio: 2),
-only screen and (-o-min-device-pixel-ratio: 2/1),
-only screen and (-webkit-min-device-pixel-ratio: 2),
-only screen and (min-device-pixel-ratio: 2) {
-	.sk-asset.sk-Rectangle-2 {
-		background-image: url("images/Rectangle 2@2x.png");
-		background-size: 791px 220px;
-	}
-}
-@media only screen and (min--moz-device-pixel-ratio: 3),
-only screen and (-o-min-device-pixel-ratio: 3/1),
-only screen and (-webkit-min-device-pixel-ratio: 3),
-only screen and (min-device-pixel-ratio: 3) {
-	.sk-asset.sk-Rectangle-2 {
-		background-image: url("images/Rectangle 2@3x.png");
-		background-size: 791px 220px;
-	}
-}
-.sk-asset.sk-Joy {
-	width: 53px;
-	height: 36px;
-	left: 131px;
-	top: 243px;
-	background-image: url("images/Joy.png");
-}
-
-@media only screen and (min--moz-device-pixel-ratio: 2),
-only screen and (-o-min-device-pixel-ratio: 2/1),
-only screen and (-webkit-min-device-pixel-ratio: 2),
-only screen and (min-device-pixel-ratio: 2) {
-	.sk-asset.sk-Joy {
-		background-image: url("images/Joy@2x.png");
-		background-size: 53px 36px;
-	}
-}
-@media only screen and (min--moz-device-pixel-ratio: 3),
-only screen and (-o-min-device-pixel-ratio: 3/1),
-only screen and (-webkit-min-device-pixel-ratio: 3),
-only screen and (min-device-pixel-ratio: 3) {
-	.sk-asset.sk-Joy {
-		background-image: url("images/Joy@3x.png");
-		background-size: 53px 36px;
-	}
-}
-.sk-asset.sk-Rectangle-2 {
-	width: 790px;
-	height: 284px;
-	left: 117px;
-	top: 303px;
-	background-image: url("images/Rectangle 2.png");
-}
-
-@media only screen and (min--moz-device-pixel-ratio: 2),
-only screen and (-o-min-device-pixel-ratio: 2/1),
-only screen and (-webkit-min-device-pixel-ratio: 2),
-only screen and (min-device-pixel-ratio: 2) {
-	.sk-asset.sk-Rectangle-2 {
-		background-image: url("images/Rectangle 2@2x.png");
-		background-size: 790px 284px;
-	}
-}
-@media only screen and (min--moz-device-pixel-ratio: 3),
-only screen and (-o-min-device-pixel-ratio: 3/1),
-only screen and (-webkit-min-device-pixel-ratio: 3),
-only screen and (min-device-pixel-ratio: 3) {
-	.sk-asset.sk-Rectangle-2 {
-		background-image: url("images/Rectangle 2@3x.png");
-		background-size: 790px 284px;
-	}
-}
-.sk-asset.sk-Line {
-	width: 2px;
-	height: 283px;
-	left: 195px;
-	top: 304px;
-	background-image: url("images/Line.png");
-}
-
-@media only screen and (min--moz-device-pixel-ratio: 2),
-only screen and (-o-min-device-pixel-ratio: 2/1),
-only screen and (-webkit-min-device-pixel-ratio: 2),
-only screen and (min-device-pixel-ratio: 2) {
-	.sk-asset.sk-Line {
-		background-image: url("images/Line@2x.png");
-		background-size: 2px 283px;
-	}
-}
-@media only screen and (min--moz-device-pixel-ratio: 3),
-only screen and (-o-min-device-pixel-ratio: 3/1),
-only screen and (-webkit-min-device-pixel-ratio: 3),
-only screen and (min-device-pixel-ratio: 3) {
-	.sk-asset.sk-Line {
-		background-image: url("images/Line@3x.png");
-		background-size: 2px 283px;
-	}
-}
-.sk-asset.sk-Line {
-	width: 2px;
-	height: 283px;
-	left: 274px;
-	top: 304px;
-	background-image: url("images/Line.png");
-}
-
-@media only screen and (min--moz-device-pixel-ratio: 2),
-only screen and (-o-min-device-pixel-ratio: 2/1),
-only screen and (-webkit-min-device-pixel-ratio: 2),
-only screen and (min-device-pixel-ratio: 2) {
-	.sk-asset.sk-Line {
-		background-image: url("images/Line@2x.png");
-		background-size: 2px 283px;
-	}
-}
-@media only screen and (min--moz-device-pixel-ratio: 3),
-only screen and (-o-min-device-pixel-ratio: 3/1),
-only screen and (-webkit-min-device-pixel-ratio: 3),
-only screen and (min-device-pixel-ratio: 3) {
-	.sk-asset.sk-Line {
-		background-image: url("images/Line@3x.png");
-		background-size: 2px 283px;
-	}
-}
-.sk-asset.sk-Line {
-	width: 2px;
-	height: 283px;
-	left: 353px;
-	top: 304px;
-	background-image: url("images/Line.png");
-}
-
-@media only screen and (min--moz-device-pixel-ratio: 2),
-only screen and (-o-min-device-pixel-ratio: 2/1),
-only screen and (-webkit-min-device-pixel-ratio: 2),
-only screen and (min-device-pixel-ratio: 2) {
-	.sk-asset.sk-Line {
-		background-image: url("images/Line@2x.png");
-		background-size: 2px 283px;
-	}
-}
-@media only screen and (min--moz-device-pixel-ratio: 3),
-only screen and (-o-min-device-pixel-ratio: 3/1),
-only screen and (-webkit-min-device-pixel-ratio: 3),
-only screen and (min-device-pixel-ratio: 3) {
-	.sk-asset.sk-Line {
-		background-image: url("images/Line@3x.png");
-		background-size: 2px 283px;
-	}
-}
-.sk-asset.sk-Line {
-	width: 2px;
-	height: 283px;
-	left: 432px;
-	top: 304px;
-	background-image: url("images/Line.png");
-}
-
-@media only screen and (min--moz-device-pixel-ratio: 2),
-only screen and (-o-min-device-pixel-ratio: 2/1),
-only screen and (-webkit-min-device-pixel-ratio: 2),
-only screen and (min-device-pixel-ratio: 2) {
-	.sk-asset.sk-Line {
-		background-image: url("images/Line@2x.png");
-		background-size: 2px 283px;
-	}
-}
-@media only screen and (min--moz-device-pixel-ratio: 3),
-only screen and (-o-min-device-pixel-ratio: 3/1),
-only screen and (-webkit-min-device-pixel-ratio: 3),
-only screen and (min-device-pixel-ratio: 3) {
-	.sk-asset.sk-Line {
-		background-image: url("images/Line@3x.png");
-		background-size: 2px 283px;
-	}
-}
-.sk-asset.sk-Line {
-	width: 2px;
-	height: 283px;
-	left: 511px;
-	top: 304px;
-	background-image: url("images/Line.png");
-}
-
-@media only screen and (min--moz-device-pixel-ratio: 2),
-only screen and (-o-min-device-pixel-ratio: 2/1),
-only screen and (-webkit-min-device-pixel-ratio: 2),
-only screen and (min-device-pixel-ratio: 2) {
-	.sk-asset.sk-Line {
-		background-image: url("images/Line@2x.png");
-		background-size: 2px 283px;
-	}
-}
-@media only screen and (min--moz-device-pixel-ratio: 3),
-only screen and (-o-min-device-pixel-ratio: 3/1),
-only screen and (-webkit-min-device-pixel-ratio: 3),
-only screen and (min-device-pixel-ratio: 3) {
-	.sk-asset.sk-Line {
-		background-image: url("images/Line@3x.png");
-		background-size: 2px 283px;
-	}
-}
-.sk-asset.sk-Line {
-	width: 2px;
-	height: 283px;
-	left: 590px;
-	top: 304px;
-	background-image: url("images/Line.png");
-}
-
-@media only screen and (min--moz-device-pixel-ratio: 2),
-only screen and (-o-min-device-pixel-ratio: 2/1),
-only screen and (-webkit-min-device-pixel-ratio: 2),
-only screen and (min-device-pixel-ratio: 2) {
-	.sk-asset.sk-Line {
-		background-image: url("images/Line@2x.png");
-		background-size: 2px 283px;
-	}
-}
-@media only screen and (min--moz-device-pixel-ratio: 3),
-only screen and (-o-min-device-pixel-ratio: 3/1),
-only screen and (-webkit-min-device-pixel-ratio: 3),
-only screen and (min-device-pixel-ratio: 3) {
-	.sk-asset.sk-Line {
-		background-image: url("images/Line@3x.png");
-		background-size: 2px 283px;
-	}
-}
-.sk-asset.sk-Line {
-	width: 2px;
-	height: 283px;
-	left: 669px;
-	top: 303px;
-	background-image: url("images/Line.png");
-}
-
-@media only screen and (min--moz-device-pixel-ratio: 2),
-only screen and (-o-min-device-pixel-ratio: 2/1),
-only screen and (-webkit-min-device-pixel-ratio: 2),
-only screen and (min-device-pixel-ratio: 2) {
-	.sk-asset.sk-Line {
-		background-image: url("images/Line@2x.png");
-		background-size: 2px 283px;
-	}
-}
-@media only screen and (min--moz-device-pixel-ratio: 3),
-only screen and (-o-min-device-pixel-ratio: 3/1),
-only screen and (-webkit-min-device-pixel-ratio: 3),
-only screen and (min-device-pixel-ratio: 3) {
-	.sk-asset.sk-Line {
-		background-image: url("images/Line@3x.png");
-		background-size: 2px 283px;
-	}
-}
-.sk-asset.sk-Line {
-	width: 2px;
-	height: 283px;
-	left: 748px;
-	top: 303px;
-	background-image: url("images/Line.png");
-}
-
-@media only screen and (min--moz-device-pixel-ratio: 2),
-only screen and (-o-min-device-pixel-ratio: 2/1),
-only screen and (-webkit-min-device-pixel-ratio: 2),
-only screen and (min-device-pixel-ratio: 2) {
-	.sk-asset.sk-Line {
-		background-image: url("images/Line@2x.png");
-		background-size: 2px 283px;
-	}
-}
-@media only screen and (min--moz-device-pixel-ratio: 3),
-only screen and (-o-min-device-pixel-ratio: 3/1),
-only screen and (-webkit-min-device-pixel-ratio: 3),
-only screen and (min-device-pixel-ratio: 3) {
-	.sk-asset.sk-Line {
-		background-image: url("images/Line@3x.png");
-		background-size: 2px 283px;
-	}
-}
-.sk-asset.sk-Line {
-	width: 2px;
-	height: 283px;
-	left: 827px;
-	top: 303px;
-	background-image: url("images/Line.png");
-}
-
-@media only screen and (min--moz-device-pixel-ratio: 2),
-only screen and (-o-min-device-pixel-ratio: 2/1),
-only screen and (-webkit-min-device-pixel-ratio: 2),
-only screen and (min-device-pixel-ratio: 2) {
-	.sk-asset.sk-Line {
-		background-image: url("images/Line@2x.png");
-		background-size: 2px 283px;
-	}
-}
-@media only screen and (min--moz-device-pixel-ratio: 3),
-only screen and (-o-min-device-pixel-ratio: 3/1),
-only screen and (-webkit-min-device-pixel-ratio: 3),
-only screen and (min-device-pixel-ratio: 3) {
-	.sk-asset.sk-Line {
-		background-image: url("images/Line@3x.png");
-		background-size: 2px 283px;
-	}
-}
-.sk-asset.sk-Path-3 {
-	width: 751px;
-	height: 166px;
-	left: 119px;
-	top: 372px;
-	background-image: url("images/Path 3.png");
-}
-
-@media only screen and (min--moz-device-pixel-ratio: 2),
-only screen and (-o-min-device-pixel-ratio: 2/1),
-only screen and (-webkit-min-device-pixel-ratio: 2),
-only screen and (min-device-pixel-ratio: 2) {
-	.sk-asset.sk-Path-3 {
-		background-image: url("images/Path 3@2x.png");
-		background-size: 751px 166px;
-	}
-}
-@media only screen and (min--moz-device-pixel-ratio: 3),
-only screen and (-o-min-device-pixel-ratio: 3/1),
-only screen and (-webkit-min-device-pixel-ratio: 3),
-only screen and (min-device-pixel-ratio: 3) {
-	.sk-asset.sk-Path-3 {
-		background-image: url("images/Path 3@3x.png");
-		background-size: 751px 166px;
-	}
-}
-.sk-asset.sk-Dec {
-	width: 36px;
-	height: 21px;
-	left: 848px;
-	top: 976px;
-	background-image: url("images/Dec.png");
-}
-
-@media only screen and (min--moz-device-pixel-ratio: 2),
-only screen and (-o-min-device-pixel-ratio: 2/1),
-only screen and (-webkit-min-device-pixel-ratio: 2),
-only screen and (min-device-pixel-ratio: 2) {
-	.sk-asset.sk-Dec {
-		background-image: url("images/Dec@2x.png");
-		background-size: 36px 21px;
-	}
-}
-@media only screen and (min--moz-device-pixel-ratio: 3),
-only screen and (-o-min-device-pixel-ratio: 3/1),
-only screen and (-webkit-min-device-pixel-ratio: 3),
-only screen and (min-device-pixel-ratio: 3) {
-	.sk-asset.sk-Dec {
-		background-image: url("images/Dec@3x.png");
-		background-size: 36px 21px;
-	}
-}
-.sk-asset.sk-Nov {
-	width: 35px;
-	height: 21px;
-	left: 771px;
-	top: 976px;
-	background-image: url("images/Nov.png");
-}
-
-@media only screen and (min--moz-device-pixel-ratio: 2),
-only screen and (-o-min-device-pixel-ratio: 2/1),
-only screen and (-webkit-min-device-pixel-ratio: 2),
-only screen and (min-device-pixel-ratio: 2) {
-	.sk-asset.sk-Nov {
-		background-image: url("images/Nov@2x.png");
-		background-size: 35px 21px;
-	}
-}
-@media only screen and (min--moz-device-pixel-ratio: 3),
-only screen and (-o-min-device-pixel-ratio: 3/1),
-only screen and (-webkit-min-device-pixel-ratio: 3),
-only screen and (min-device-pixel-ratio: 3) {
-	.sk-asset.sk-Nov {
-		background-image: url("images/Nov@3x.png");
-		background-size: 35px 21px;
-	}
-}
-.sk-asset.sk-Oct {
-	width: 33px;
-	height: 21px;
-	left: 693px;
-	top: 976px;
-	background-image: url("images/Oct.png");
-}
-
-@media only screen and (min--moz-device-pixel-ratio: 2),
-only screen and (-o-min-device-pixel-ratio: 2/1),
-only screen and (-webkit-min-device-pixel-ratio: 2),
-only screen and (min-device-pixel-ratio: 2) {
-	.sk-asset.sk-Oct {
-		background-image: url("images/Oct@2x.png");
-		background-size: 33px 21px;
-	}
-}
-@media only screen and (min--moz-device-pixel-ratio: 3),
-only screen and (-o-min-device-pixel-ratio: 3/1),
-only screen and (-webkit-min-device-pixel-ratio: 3),
-only screen and (min-device-pixel-ratio: 3) {
-	.sk-asset.sk-Oct {
-		background-image: url("images/Oct@3x.png");
-		background-size: 33px 21px;
-	}
-}
-.sk-asset.sk-Sept {
-	width: 42px;
-	height: 21px;
-	left: 609px;
-	top: 976px;
-	background-image: url("images/Sept.png");
-}
-
-@media only screen and (min--moz-device-pixel-ratio: 2),
-only screen and (-o-min-device-pixel-ratio: 2/1),
-only screen and (-webkit-min-device-pixel-ratio: 2),
-only screen and (min-device-pixel-ratio: 2) {
-	.sk-asset.sk-Sept {
-		background-image: url("images/Sept@2x.png");
-		background-size: 42px 21px;
-	}
-}
-@media only screen and (min--moz-device-pixel-ratio: 3),
-only screen and (-o-min-device-pixel-ratio: 3/1),
-only screen and (-webkit-min-device-pixel-ratio: 3),
-only screen and (min-device-pixel-ratio: 3) {
-	.sk-asset.sk-Sept {
-		background-image: url("images/Sept@3x.png");
-		background-size: 42px 21px;
-	}
-}
-.sk-asset.sk-Aug {
-	width: 35px;
-	height: 21px;
-	left: 533px;
-	top: 976px;
-	background-image: url("images/Aug.png");
-}
-
-@media only screen and (min--moz-device-pixel-ratio: 2),
-only screen and (-o-min-device-pixel-ratio: 2/1),
-only screen and (-webkit-min-device-pixel-ratio: 2),
-only screen and (min-device-pixel-ratio: 2) {
-	.sk-asset.sk-Aug {
-		background-image: url("images/Aug@2x.png");
-		background-size: 35px 21px;
-	}
-}
-@media only screen and (min--moz-device-pixel-ratio: 3),
-only screen and (-o-min-device-pixel-ratio: 3/1),
-only screen and (-webkit-min-device-pixel-ratio: 3),
-only screen and (min-device-pixel-ratio: 3) {
-	.sk-asset.sk-Aug {
-		background-image: url("images/Aug@3x.png");
-		background-size: 35px 21px;
-	}
-}
-.sk-asset.sk-July {
-	width: 37px;
-	height: 21px;
-	left: 452px;
-	top: 976px;
-	background-image: url("images/July.png");
-}
-
-@media only screen and (min--moz-device-pixel-ratio: 2),
-only screen and (-o-min-device-pixel-ratio: 2/1),
-only screen and (-webkit-min-device-pixel-ratio: 2),
-only screen and (min-device-pixel-ratio: 2) {
-	.sk-asset.sk-July {
-		background-image: url("images/July@2x.png");
-		background-size: 37px 21px;
-	}
-}
-@media only screen and (min--moz-device-pixel-ratio: 3),
-only screen and (-o-min-device-pixel-ratio: 3/1),
-only screen and (-webkit-min-device-pixel-ratio: 3),
-only screen and (min-device-pixel-ratio: 3) {
-	.sk-asset.sk-July {
-		background-image: url("images/July@3x.png");
-		background-size: 37px 21px;
-	}
-}
-.sk-asset.sk-June {
-	width: 44px;
-	height: 21px;
-	left: 370px;
-	top: 976px;
-	background-image: url("images/June.png");
-}
-
-@media only screen and (min--moz-device-pixel-ratio: 2),
-only screen and (-o-min-device-pixel-ratio: 2/1),
-only screen and (-webkit-min-device-pixel-ratio: 2),
-only screen and (min-device-pixel-ratio: 2) {
-	.sk-asset.sk-June {
-		background-image: url("images/June@2x.png");
-		background-size: 44px 21px;
-	}
-}
-@media only screen and (min--moz-device-pixel-ratio: 3),
-only screen and (-o-min-device-pixel-ratio: 3/1),
-only screen and (-webkit-min-device-pixel-ratio: 3),
-only screen and (min-device-pixel-ratio: 3) {
-	.sk-asset.sk-June {
-		background-image: url("images/June@3x.png");
-		background-size: 44px 21px;
-	}
-}
-.sk-asset.sk-May {
-	width: 37px;
-	height: 21px;
-	left: 297px;
-	top: 976px;
-	background-image: url("images/May.png");
-}
-
-@media only screen and (min--moz-device-pixel-ratio: 2),
-only screen and (-o-min-device-pixel-ratio: 2/1),
-only screen and (-webkit-min-device-pixel-ratio: 2),
-only screen and (min-device-pixel-ratio: 2) {
-	.sk-asset.sk-May {
-		background-image: url("images/May@2x.png");
-		background-size: 37px 21px;
-	}
-}
-@media only screen and (min--moz-device-pixel-ratio: 3),
-only screen and (-o-min-device-pixel-ratio: 3/1),
-only screen and (-webkit-min-device-pixel-ratio: 3),
-only screen and (min-device-pixel-ratio: 3) {
-	.sk-asset.sk-May {
-		background-image: url("images/May@3x.png");
-		background-size: 37px 21px;
-	}
-}
-.sk-asset.sk-Apr {
-	width: 32px;
-	height: 21px;
-	left: 219px;
-	top: 975px;
-	background-image: url("images/Apr.png");
-}
-
-@media only screen and (min--moz-device-pixel-ratio: 2),
-only screen and (-o-min-device-pixel-ratio: 2/1),
-only screen and (-webkit-min-device-pixel-ratio: 2),
-only screen and (min-device-pixel-ratio: 2) {
-	.sk-asset.sk-Apr {
-		background-image: url("images/Apr@2x.png");
-		background-size: 32px 21px;
-	}
-}
-@media only screen and (min--moz-device-pixel-ratio: 3),
-only screen and (-o-min-device-pixel-ratio: 3/1),
-only screen and (-webkit-min-device-pixel-ratio: 3),
-only screen and (min-device-pixel-ratio: 3) {
-	.sk-asset.sk-Apr {
-		background-image: url("images/Apr@3x.png");
-		background-size: 32px 21px;
-	}
-}
-.sk-asset.sk-Mar {
-	width: 34px;
-	height: 21px;
-	left: 140px;
-	top: 976px;
-	background-image: url("images/Mar.png");
-}
-
-@media only screen and (min--moz-device-pixel-ratio: 2),
-only screen and (-o-min-device-pixel-ratio: 2/1),
-only screen and (-webkit-min-device-pixel-ratio: 2),
-only screen and (min-device-pixel-ratio: 2) {
-	.sk-asset.sk-Mar {
-		background-image: url("images/Mar@2x.png");
-		background-size: 34px 21px;
-	}
-}
-@media only screen and (min--moz-device-pixel-ratio: 3),
-only screen and (-o-min-device-pixel-ratio: 3/1),
-only screen and (-webkit-min-device-pixel-ratio: 3),
-only screen and (min-device-pixel-ratio: 3) {
-	.sk-asset.sk-Mar {
-		background-image: url("images/Mar@3x.png");
-		background-size: 34px 21px;
-	}
-}
-.sk-asset.sk-Rectangle-2 {
-	width: 791px;
-	height: 220px;
-	left: 117px;
-	top: 692px;
-	background-image: url("images/Rectangle 2.png");
-}
-
-@media only screen and (min--moz-device-pixel-ratio: 2),
-only screen and (-o-min-device-pixel-ratio: 2/1),
-only screen and (-webkit-min-device-pixel-ratio: 2),
-only screen and (min-device-pixel-ratio: 2) {
-	.sk-asset.sk-Rectangle-2 {
-		background-image: url("images/Rectangle 2@2x.png");
-		background-size: 791px 220px;
-	}
-}
-@media only screen and (min--moz-device-pixel-ratio: 3),
-only screen and (-o-min-device-pixel-ratio: 3/1),
-only screen and (-webkit-min-device-pixel-ratio: 3),
-only screen and (min-device-pixel-ratio: 3) {
-	.sk-asset.sk-Rectangle-2 {
-		background-image: url("images/Rectangle 2@3x.png");
-		background-size: 791px 220px;
-	}
-}
-.sk-asset.sk-Disgust {
-	width: 114px;
-	height: 36px;
-	left: 139px;
-	top: 650px;
-	background-image: url("images/Disgust.png");
-}
-
-@media only screen and (min--moz-device-pixel-ratio: 2),
-only screen and (-o-min-device-pixel-ratio: 2/1),
-only screen and (-webkit-min-device-pixel-ratio: 2),
-only screen and (min-device-pixel-ratio: 2) {
-	.sk-asset.sk-Disgust {
-		background-image: url("images/Disgust@2x.png");
-		background-size: 114px 36px;
-	}
-}
-@media only screen and (min--moz-device-pixel-ratio: 3),
-only screen and (-o-min-device-pixel-ratio: 3/1),
-only screen and (-webkit-min-device-pixel-ratio: 3),
-only screen and (min-device-pixel-ratio: 3) {
-	.sk-asset.sk-Disgust {
-		background-image: url("images/Disgust@3x.png");
-		background-size: 114px 36px;
-	}
-}
-.sk-asset.sk-Rectangle-2 {
-	width: 790px;
-	height: 284px;
-	left: 117px;
-	top: 692px;
-	background-image: url("images/Rectangle 2.png");
-}
-
-@media only screen and (min--moz-device-pixel-ratio: 2),
-only screen and (-o-min-device-pixel-ratio: 2/1),
-only screen and (-webkit-min-device-pixel-ratio: 2),
-only screen and (min-device-pixel-ratio: 2) {
-	.sk-asset.sk-Rectangle-2 {
-		background-image: url("images/Rectangle 2@2x.png");
-		background-size: 790px 284px;
-	}
-}
-@media only screen and (min--moz-device-pixel-ratio: 3),
-only screen and (-o-min-device-pixel-ratio: 3/1),
-only screen and (-webkit-min-device-pixel-ratio: 3),
-only screen and (min-device-pixel-ratio: 3) {
-	.sk-asset.sk-Rectangle-2 {
-		background-image: url("images/Rectangle 2@3x.png");
-		background-size: 790px 284px;
-	}
-}
-.sk-asset.sk-Line {
-	width: 2px;
-	height: 283px;
-	left: 195px;
-	top: 692px;
-	background-image: url("images/Line.png");
-}
-
-@media only screen and (min--moz-device-pixel-ratio: 2),
-only screen and (-o-min-device-pixel-ratio: 2/1),
-only screen and (-webkit-min-device-pixel-ratio: 2),
-only screen and (min-device-pixel-ratio: 2) {
-	.sk-asset.sk-Line {
-		background-image: url("images/Line@2x.png");
-		background-size: 2px 283px;
-	}
-}
-@media only screen and (min--moz-device-pixel-ratio: 3),
-only screen and (-o-min-device-pixel-ratio: 3/1),
-only screen and (-webkit-min-device-pixel-ratio: 3),
-only screen and (min-device-pixel-ratio: 3) {
-	.sk-asset.sk-Line {
-		background-image: url("images/Line@3x.png");
-		background-size: 2px 283px;
-	}
-}
-.sk-asset.sk-Line {
-	width: 2px;
-	height: 283px;
-	left: 274px;
-	top: 692px;
-	background-image: url("images/Line.png");
-}
-
-@media only screen and (min--moz-device-pixel-ratio: 2),
-only screen and (-o-min-device-pixel-ratio: 2/1),
-only screen and (-webkit-min-device-pixel-ratio: 2),
-only screen and (min-device-pixel-ratio: 2) {
-	.sk-asset.sk-Line {
-		background-image: url("images/Line@2x.png");
-		background-size: 2px 283px;
-	}
-}
-@media only screen and (min--moz-device-pixel-ratio: 3),
-only screen and (-o-min-device-pixel-ratio: 3/1),
-only screen and (-webkit-min-device-pixel-ratio: 3),
-only screen and (min-device-pixel-ratio: 3) {
-	.sk-asset.sk-Line {
-		background-image: url("images/Line@3x.png");
-		background-size: 2px 283px;
-	}
-}
-.sk-asset.sk-Line {
-	width: 2px;
-	height: 283px;
-	left: 353px;
-	top: 692px;
-	background-image: url("images/Line.png");
-}
-
-@media only screen and (min--moz-device-pixel-ratio: 2),
-only screen and (-o-min-device-pixel-ratio: 2/1),
-only screen and (-webkit-min-device-pixel-ratio: 2),
-only screen and (min-device-pixel-ratio: 2) {
-	.sk-asset.sk-Line {
-		background-image: url("images/Line@2x.png");
-		background-size: 2px 283px;
-	}
-}
-@media only screen and (min--moz-device-pixel-ratio: 3),
-only screen and (-o-min-device-pixel-ratio: 3/1),
-only screen and (-webkit-min-device-pixel-ratio: 3),
-only screen and (min-device-pixel-ratio: 3) {
-	.sk-asset.sk-Line {
-		background-image: url("images/Line@3x.png");
-		background-size: 2px 283px;
-	}
-}
-.sk-asset.sk-Line {
-	width: 2px;
-	height: 283px;
-	left: 432px;
-	top: 692px;
-	background-image: url("images/Line.png");
-}
-
-@media only screen and (min--moz-device-pixel-ratio: 2),
-only screen and (-o-min-device-pixel-ratio: 2/1),
-only screen and (-webkit-min-device-pixel-ratio: 2),
-only screen and (min-device-pixel-ratio: 2) {
-	.sk-asset.sk-Line {
-		background-image: url("images/Line@2x.png");
-		background-size: 2px 283px;
-	}
-}
-@media only screen and (min--moz-device-pixel-ratio: 3),
-only screen and (-o-min-device-pixel-ratio: 3/1),
-only screen and (-webkit-min-device-pixel-ratio: 3),
-only screen and (min-device-pixel-ratio: 3) {
-	.sk-asset.sk-Line {
-		background-image: url("images/Line@3x.png");
-		background-size: 2px 283px;
-	}
-}
-.sk-asset.sk-Line {
-	width: 2px;
-	height: 283px;
-	left: 511px;
-	top: 692px;
-	background-image: url("images/Line.png");
-}
-
-@media only screen and (min--moz-device-pixel-ratio: 2),
-only screen and (-o-min-device-pixel-ratio: 2/1),
-only screen and (-webkit-min-device-pixel-ratio: 2),
-only screen and (min-device-pixel-ratio: 2) {
-	.sk-asset.sk-Line {
-		background-image: url("images/Line@2x.png");
-		background-size: 2px 283px;
-	}
-}
-@media only screen and (min--moz-device-pixel-ratio: 3),
-only screen and (-o-min-device-pixel-ratio: 3/1),
-only screen and (-webkit-min-device-pixel-ratio: 3),
-only screen and (min-device-pixel-ratio: 3) {
-	.sk-asset.sk-Line {
-		background-image: url("images/Line@3x.png");
-		background-size: 2px 283px;
-	}
-}
-.sk-asset.sk-Line {
-	width: 2px;
-	height: 283px;
-	left: 590px;
-	top: 692px;
-	background-image: url("images/Line.png");
-}
-
-@media only screen and (min--moz-device-pixel-ratio: 2),
-only screen and (-o-min-device-pixel-ratio: 2/1),
-only screen and (-webkit-min-device-pixel-ratio: 2),
-only screen and (min-device-pixel-ratio: 2) {
-	.sk-asset.sk-Line {
-		background-image: url("images/Line@2x.png");
-		background-size: 2px 283px;
-	}
-}
-@media only screen and (min--moz-device-pixel-ratio: 3),
-only screen and (-o-min-device-pixel-ratio: 3/1),
-only screen and (-webkit-min-device-pixel-ratio: 3),
-only screen and (min-device-pixel-ratio: 3) {
-	.sk-asset.sk-Line {
-		background-image: url("images/Line@3x.png");
-		background-size: 2px 283px;
-	}
-}
-.sk-asset.sk-Line {
-	width: 2px;
-	height: 283px;
-	left: 669px;
-	top: 692px;
-	background-image: url("images/Line.png");
-}
-
-@media only screen and (min--moz-device-pixel-ratio: 2),
-only screen and (-o-min-device-pixel-ratio: 2/1),
-only screen and (-webkit-min-device-pixel-ratio: 2),
-only screen and (min-device-pixel-ratio: 2) {
-	.sk-asset.sk-Line {
-		background-image: url("images/Line@2x.png");
-		background-size: 2px 283px;
-	}
-}
-@media only screen and (min--moz-device-pixel-ratio: 3),
-only screen and (-o-min-device-pixel-ratio: 3/1),
-only screen and (-webkit-min-device-pixel-ratio: 3),
-only screen and (min-device-pixel-ratio: 3) {
-	.sk-asset.sk-Line {
-		background-image: url("images/Line@3x.png");
-		background-size: 2px 283px;
-	}
-}
-.sk-asset.sk-Line {
-	width: 2px;
-	height: 283px;
-	left: 748px;
-	top: 692px;
-	background-image: url("images/Line.png");
-}
-
-@media only screen and (min--moz-device-pixel-ratio: 2),
-only screen and (-o-min-device-pixel-ratio: 2/1),
-only screen and (-webkit-min-device-pixel-ratio: 2),
-only screen and (min-device-pixel-ratio: 2) {
-	.sk-asset.sk-Line {
-		background-image: url("images/Line@2x.png");
-		background-size: 2px 283px;
-	}
-}
-@media only screen and (min--moz-device-pixel-ratio: 3),
-only screen and (-o-min-device-pixel-ratio: 3/1),
-only screen and (-webkit-min-device-pixel-ratio: 3),
-only screen and (min-device-pixel-ratio: 3) {
-	.sk-asset.sk-Line {
-		background-image: url("images/Line@3x.png");
-		background-size: 2px 283px;
-	}
-}
-.sk-asset.sk-Line {
-	width: 2px;
-	height: 283px;
-	left: 827px;
-	top: 692px;
-	background-image: url("images/Line.png");
-}
-
-@media only screen and (min--moz-device-pixel-ratio: 2),
-only screen and (-o-min-device-pixel-ratio: 2/1),
-only screen and (-webkit-min-device-pixel-ratio: 2),
-only screen and (min-device-pixel-ratio: 2) {
-	.sk-asset.sk-Line {
-		background-image: url("images/Line@2x.png");
-		background-size: 2px 283px;
-	}
-}
-@media only screen and (min--moz-device-pixel-ratio: 3),
-only screen and (-o-min-device-pixel-ratio: 3/1),
-only screen and (-webkit-min-device-pixel-ratio: 3),
-only screen and (min-device-pixel-ratio: 3) {
-	.sk-asset.sk-Line {
-		background-image: url("images/Line@3x.png");
-		background-size: 2px 283px;
-	}
-}
-.sk-asset.sk-Path-3 {
-	width: 754px;
-	height: 131px;
-	left: 118px;
-	top: 794px;
-	background-image: url("images/Path 3.png");
-}
-
-@media only screen and (min--moz-device-pixel-ratio: 2),
-only screen and (-o-min-device-pixel-ratio: 2/1),
-only screen and (-webkit-min-device-pixel-ratio: 2),
-only screen and (min-device-pixel-ratio: 2) {
-	.sk-asset.sk-Path-3 {
-		background-image: url("images/Path 3@2x.png");
-		background-size: 754px 131px;
-	}
-}
-@media only screen and (min--moz-device-pixel-ratio: 3),
-only screen and (-o-min-device-pixel-ratio: 3/1),
-only screen and (-webkit-min-device-pixel-ratio: 3),
-only screen and (min-device-pixel-ratio: 3) {
-	.sk-asset.sk-Path-3 {
-		background-image: url("images/Path 3@3x.png");
-		background-size: 754px 131px;
+	.sk-asset.sk-- {
+		background-image: url("images/-@3x.png");
+		background-size: 57px 86px;
 	}
 }

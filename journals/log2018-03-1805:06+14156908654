@@ -1,0 +1,20 @@
+This is a new fun, unique journal entry
+{
+  "usage": {
+    "text_characters": 39, 
+    "features": 1, 
+    "text_units": 1
+  }, 
+  "emotion": {
+    "document": {
+      "emotion": {
+        "anger": 0.020522, 
+        "joy": 0.822776, 
+        "sadness": 0.035788, 
+        "fear": 0.049109, 
+        "disgust": 0.008329
+      }
+    }
+  }, 
+  "language": "en"
+}

@@ -2,15 +2,12 @@
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
   $content = $_POST['text'];
-  $phone = $_POST['number'];
-
-  $content = "I am happy today, the earth is good";
-  $number = "+14156908654";
+  $number = $_POST['number'];
 
 
   $today = date("Y-m-d h:i");
   $today = str_replace(" ", "", $today);
-  $my_file = 'log'.$today."".$number;
+  $my_file = 'log'.$today."+".$number;
 echo $my_file;
 
   $handle = fopen('journals/'.$my_file, 'w') or die('Cannot open file:  '.$my_file);

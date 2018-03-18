@@ -1,0 +1,20 @@
+This is a fun mobile journal
+{
+  "usage": {
+    "text_characters": 28, 
+    "features": 1, 
+    "text_units": 1
+  }, 
+  "emotion": {
+    "document": {
+      "emotion": {
+        "anger": 0.013447, 
+        "joy": 0.823112, 
+        "sadness": 0.090009, 
+        "fear": 0.013212, 
+        "disgust": 0.018475
+      }
+    }
+  }, 
+  "language": "en"
+}

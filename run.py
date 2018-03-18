@@ -38,17 +38,17 @@ def thanks_reply():
 	now = datetime.datetime.now()
 	date = now.strftime("%Y-%m-%d %H:%M")
 	log_name = "log"+date+request.values['From']
-	record_responses(log_name,date,request.values['From'],request.values['Body'], emotional_data)
+	record_responses(log_name,request.values['From'],request.values['Body'], emotional_data)
 	
 	resp.message("Thanks so much for that log!")
 	return str(resp)
 
 
 # creates a unique local txt file for every log
-def record_responses(logname, date, id, msg, emo_data):
+def record_responses(logname, id, msg, emo_data):
 	
 	f = open(logname,'w+')
-	f.write(date+" "+msg+"~\n"+emo_data)
+	f.write(+msg+"~\n"+emo_data)
 	f.close()
 	print('new log documented')
 

@@ -1,0 +1,21 @@
+	This is one of my first journal entries, I am excited and I can not wait to see what happens
+
+{
+  "usage": {
+    "text_characters": 93, 
+    "features": 1, 
+    "text_units": 1
+  }, 
+  "emotion": {
+    "document": {
+      "emotion": {
+        "anger": 0.017298, 
+        "joy": 0.764302, 
+        "sadness": 0.097682, 
+        "fear": 0.033251, 
+        "disgust": 0.019471
+      }
+    }
+  }, 
+  "language": "en"
+}

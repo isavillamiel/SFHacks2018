@@ -1,0 +1,65 @@
+p {
+    text-indent: 50px;
+}
+
+a:hover {
+color: #2dccff;
+}
+.button2 {
+   font-family: SFUIText-Medium;
+    border: none;
+    color: #4C7792;
+    padding: 26px;
+    text-align: center;
+ display: block;
+    text-decoration: none;
+    font-size: 30px;
+     margin-left: auto;
+    margin-right: auto;
+}
+.button3 {
+    
+   background-color: #4C7792;
+    border: none;
+    color: white;
+padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    font-size: 26px;
+    margin-left: auto;
+    margin-right: auto;
+border-radius: 12px
+}
+.buttonAnalyze {border-radius: 12px;}
+.logo img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  
+ 	
+  	
+}
+#Welcome{
+	font-family: SFUIText-Medium;
+	font-size: 32px;
+	color: #4C7792;
+	letter-spacing: 1.07px;
+	text-align: center;
+}
+#inputField{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: 
+    border-box;
+    border: 2px solid #555;
+    outline: none;
+position: relative;
+}
+  
+body{
+    background-color: #f6f7e7;
+    margin-top: -50px;  
+}
+

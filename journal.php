@@ -13,6 +13,16 @@
 
   </head>
   <body>
+    
+    
+        <center>
+	<a href='index.php'>
+           <img src="LOGO.png"></img>
+        </a>
+	
+</center>
+  
+  
       <?php 
     session_start();
 		$number = $_SESSION['phone'];
@@ -20,17 +30,12 @@
         include '../databases/cbtConnect.php';
         $phone = $_GET["phone"];
         $code = $_GET["code"];
-        include 'checkCode.php';
-        header('location: journal.php');
-    }else{
+        include 'scripts/checkCode.php';
+      echo "<script>location.reload();</script>";
+    }
 	?>
-<div class ="HOME">
-	<a href='index.php'>
-<div class ="logo">
-           <img src="LOGO.png" height="300"></img>
-        </div></a>
-	
 
+  
 	<div id='Welcome'>
    		Welcome
 	</div>
@@ -50,7 +55,6 @@
 <br>
 	<a href="#" class="button2">Insights</a>
 	<a href="entries.php" class="button2">Entries</a>
-</div>
 
     
 <script>
@@ -62,7 +66,7 @@
 	    function jqStuff(text, jr){
         $.ajax({
           type: 'post',
-          url: "writer.php",
+          url: "scripts/writer.php",
           data: {
               'text': text,
               'number': <?php echo $number; ?>
@@ -76,7 +80,6 @@
       
     }
 </script>
-    <?php } ?>
     </body>
 
 </html>

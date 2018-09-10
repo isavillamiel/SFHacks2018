@@ -13,7 +13,13 @@
 
 <body translate="no">
     <?php 
+
     session_start();
+  $phone = $_SESSION['phone'];
+  if(strlen($phone) == 10){
+    //echo "<script>alert('$phone')</script>";
+    header('Location: journal.php');
+  }
   ?>
   <center>
     <a href='index.php'>
@@ -38,12 +44,13 @@
       var input = document.getElementById("input").value;
       $.ajax({
         type: 'post',
-        url: "sendText.php",
+        url: "scripts/sendText.php",
         data: {
             'phone': input
         },
         cache: false,
         success: function(data) {
+          alert(data);
           if(data == "E"){
             document.getElementById("input").value = "";
             alert("Please enter in correct format");

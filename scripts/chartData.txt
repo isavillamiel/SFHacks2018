@@ -1,0 +1,8 @@
+    	{
+		type: "line",
+		axisYType: "secondary",
+		name: "*emotion*",
+		showInLegend: true,
+		markerSize: 0,
+		dataPoints: [*data*]
+	}

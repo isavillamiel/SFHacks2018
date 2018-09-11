@@ -3,27 +3,18 @@
 
 
 <head>
-  
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="css/main.css">
-  <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
-  <script src="https://code.jquery.com/jquery-migrate-1.2.1.min.js"></script> 
-	  <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
-  <script src="https://code.jquery.com/jquery-migrate-1.2.1.min.js"></script> 
+  <script src="http://tinymce.cachefly.net/4.1/tinymce.min.js"></script>
+  <script>
+    tinymce.init({
+      selector: 'textarea'
+    });
+  </script>
 
-  </head>
-  <body>
-    
-    
-        <center>
-	<a href='index.php'>
-           <img src="LOGO.png"></img>
-        </a>
-	
-</center>
-  
-  
-      <?php 
+  <?php 
+    include 'includes/header.php';
+  ?>
+
+  <?php 
     session_start();
 		$number = $_SESSION['phone'];
     if(!isset($number)){
@@ -34,52 +25,55 @@
       echo "<script>location.reload();</script>";
     }
 	?>
+  <div class='row'>
 
-  
-	<div id='Welcome'>
-   		Welcome
-	</div>
-  
-	<br />
-	
+    <div class='col-md-4'>
+      <a href="insights.php" class="button2">Insights</a>
+    </div>
+    <div class='col-md-4'>
+      <a href="#" onclick='analyze()' class="button3">Analyze</a>
+    </div>
+    <div class='col-md-4'>
+      <a href="entries.php" class="button2">Entries</a>
+    </div>
+  </div>
+  <div class='row'>
 
-	<center>
-	<div class = 'inputField'>
-	<textarea  style="font-size:35px; width: 100%" id='entry' rows= '10' >
-	</textarea
-	</div>
-	<br>
-	<br>
-	<a href="#" onclick='analyze()' class="button3">Analyze</a>
-	<br>
-<br>
-	<a href="#" class="button2">Insights</a>
-	<a href="entries.php" class="button2">Entries</a>
+    <div class='col-md-12'>
+      <center>
+        <textarea style="font-size:35px; width: 100%" id='entry' rows='5'>
+    </textarea>
+      </center>
+    </div>
+  </div>
 
-    
-<script>
-  
-		function analyze(){
-			journal = document.getElementById('entry');
-			jqStuff(journal.value, journal);
-		}
-	    function jqStuff(text, jr){
-        $.ajax({
-          type: 'post',
-          url: "scripts/writer.php",
-          data: {
-              'text': text,
-              'number': <?php echo $number; ?>
-          },
-          cache: false,
-          success: function(data) {
-            alert("Journal entry successful\n"+data);
-            jr.value = "";
-          }
-      });
-      
+
+  <script>
+    function analyze() {
+      journal = document.getElementById('entry');
+      var content = tinyMCE.get('entry').getContent()
+
+      //alert(content);
+      jqStuff(content, journal);
     }
-</script>
-    </body>
+
+    function jqStuff(text, jr) {
+      $.ajax({
+        type: 'post',
+        url: "scripts/writer.php",
+        data: {
+          'text': text,
+          'number': <?php echo $number; ?>
+        },
+        cache: false,
+        success: function(data) {
+          alert("Journal entry successful\n"+data);
+          tinyMCE.get('entry').setContent("");
+        }
+      });
+
+    }
+  </script>
+  </body>
 
 </html>

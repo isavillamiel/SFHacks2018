@@ -3,18 +3,14 @@
 <head>
   <link rel="stylesheet" href="css/input.css">
 
-  <meta charset="UTF-8">
-  <link type="text/css" rel="stylesheet" href="http://gigahornet.com/css/bootstrap.min.css">
-  <link rel="stylesheet" href="css/main.css">
-  <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
-  <script src="https://code.jquery.com/jquery-migrate-1.2.1.min.js"></script> 
-</head>
 
-<body translate="no">
+  <?php 
+    include 'includes/header.php';
+  ?>
+  
+  
+  
   <center>
-    <a href='index.php'>
-               <img src="LOGO.png"></img>
-    </a>
     <br />
   <h1>
     Enter Code
@@ -23,6 +19,8 @@
   <br /><button onclick='checkConfirmationCode()' class='button'>
     Send
   </button>
+    </center>
+
     <?php 
     session_start();
   if(strlen($_SESSION['phone']) == 10){
@@ -32,7 +30,6 @@
 
 
 
-  </center>
   <script>
     function checkConfirmationCode(){
 

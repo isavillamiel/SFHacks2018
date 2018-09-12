@@ -8,25 +8,25 @@ var chart = new CanvasJS.Chart("chartContainer", {
 	toolTip: {
 		shared: true
 	},
-	legend: {
-		cursor: "pointer",
-		verticalAlign: "top",
-		horizontalAlign: "center",
-		dockInsidePlotArea: true,
-		itemclick: toogleDataSeries
-	},
 	data: [
 
     <?php
       session_start();
-      $number = $_SESSION['phone'];
-      include 'emotionData.php'; 
+      $number = $_SESSION['phone']; //get the phone number of the user
+      include 'emotionData.php';  //this script
+      //will print the emotion data in a javascript format
+    //see the page for more comments
+    
+    
+    //all other code is for initializing the chart
+    //with specified settings
     ?>
     
   ]
-});
+}); //initializes the chart with the user's
+  //data on emotion
   
-chart.render();
+chart.render(); //fills the div with the chart
 
 function toogleDataSeries(e){
 	if (typeof(e.dataSeries.visible) === "undefined" || e.dataSeries.visible) {

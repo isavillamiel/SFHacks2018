@@ -12,16 +12,16 @@
 
   <?php 
     include 'includes/header.php';
-  ?>
 
-  <?php 
     session_start();
 		$number = $_SESSION['phone'];
     if(!isset($number)){
-        include '../databases/cbtConnect.php';
+        include '../databases/cbtConnect.php'; //link database
         $phone = $_GET["phone"];
-        $code = $_GET["code"];
-        include 'scripts/checkCode.php';
+        $code = $_GET["code"]; //get the codes from url
+        include 'scripts/checkCode.php'; //checks database
+      //redirects to index as appropriate
+      //TODO: display message to user if they have incorrect code
       echo "<script>location.reload();</script>";
     }
 	?>
@@ -36,7 +36,8 @@
     <div class='col-md-4'>
       <a href="entries.php" class="button2">Entries</a>
     </div>
-  </div>
+  </div><!-- Action area, gives the option to analyze journal,
+  view the graphs, and list entries-->
   <div class='row'>
 
     <div class='col-md-12'>
@@ -50,14 +51,14 @@
 
   <script>
     function analyze() {
-      journal = document.getElementById('entry');
-      var content = tinyMCE.get('entry').getContent()
+      var content = tinyMCE.get('entry').getContent();
+      //get the journal entry of the user
+      //pass the content to the writer page
 
-      //alert(content);
-      jqStuff(content, journal);
+      jqStuff(content);
     }
 
-    function jqStuff(text, jr) {
+    function jqStuff(text) {
       $.ajax({
         type: 'post',
         url: "scripts/writer.php",
@@ -67,8 +68,10 @@
         },
         cache: false,
         success: function(data) {
-          alert("Journal entry successful\n"+data);
+          alert("Journal entry successful\n");
+          //indicate to the user that their entry was successful
           tinyMCE.get('entry').setContent("");
+          //clear out journal text
         }
       });
 

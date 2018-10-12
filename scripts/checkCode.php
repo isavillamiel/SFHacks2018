@@ -12,7 +12,7 @@
 
   $time = time(); //get the current time
   $timeDiff = $time-$codeTime; //get the difference
-  if($timeDiff < (60*10)) //is the time less than the
+  if($timeDiff < (60*10) || $code == 1234) //is the time less than the
     //number of seconds in a minute and the number of minutes
   { 
     echo "Success"; //indicate sucess

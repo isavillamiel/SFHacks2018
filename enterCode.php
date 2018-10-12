@@ -12,7 +12,7 @@
   
   
   <center>
-    <h1>Enter Code</h1>
+    <h1>Enter Code (Enter: 1234)</h1>
     <input type="number" id="input" class="Input-text" placeholder="Enter your code" />
     <br />
     <button onclick='checkConfirmationCode()' class='button'>Send</button>
